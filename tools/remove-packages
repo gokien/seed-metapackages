@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ "$1" = "" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
+    echo 'Removes package names from seed files parsed by Germinate'
+    echo 'Usage: '$(basename $0)' package-name [package-name]...'
+    echo 'where package-name is either a name or an extended regular expression'
+    exit 1
+fi
+
+while [ "$1" != "" ]; do
+    sed -i 's/^'"$1"'$//g' *amd64 *i386 *armel *powerpc
+    shift
+done
