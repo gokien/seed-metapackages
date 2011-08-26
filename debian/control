@@ -1,16 +1,16 @@
-Source: ubuntu-meta
+Source: elementary-meta
 Section: metapackages
 Priority: optional
-Maintainer: Matt Zimmerman <mdz@ubuntu.com>
+Maintainer: Matt Zimmerman <mdz@elementary.com>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
-Package: ubuntu-minimal
+Package: elementary-minimal
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: Minimal core of Ubuntu
- This package depends on all of the packages in the Ubuntu minimal system,
+Description: Minimal core of elementary OS
+ This package depends on all of the packages in the elementary minimal system,
  that is a functional command-line system with the following capabilities:
  .
   - Boot
@@ -22,24 +22,22 @@ Description: Minimal core of Ubuntu
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
-Package: ubuntu-standard
+Package: elementary-standard
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: The Ubuntu standard system
- This package depends on all of the packages in the Ubuntu standard system.
- This set of packages provides a comfortable command-line Unix-like
- environment.
+Description: The elementary OS CLI-only components
+ This package depends on most of non-GUI packages from elementary OS.
  .
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.
+ It is used to ensure proper upgrades, so it is recommended that it not be
+ removed.
 
-Package: ubuntu-desktop
+Package: elementary-desktop
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: The Ubuntu desktop system
- This package depends on all of the packages in the Ubuntu desktop system
+Description: The elementary desktop system
+ This package installs the complete elementary desktop.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
