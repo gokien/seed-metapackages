@@ -13,7 +13,6 @@ iproute
 iputils-ping
 isc-dhcp-client
 kbd
-
 locales
 lsb-release
 makedev
@@ -21,17 +20,13 @@ mawk
 module-init-tools
 net-tools
 netbase
-
-
 passwd
 procps
 python
-
 sudo
 tzdata
 ubuntu-keyring
 udev
 upstart
 ureadahead
-
 whiptail

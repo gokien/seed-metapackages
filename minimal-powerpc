@@ -13,7 +13,6 @@ iproute
 iputils-ping
 isc-dhcp-client
 kbd
-
 locales
 lsb-release
 mac-fdisk
@@ -22,19 +21,15 @@ mawk
 module-init-tools
 net-tools
 netbase
-
-
 passwd
 pmac-fdisk
 powerpc-utils
 procps
 python
-
 sudo
 tzdata
 ubuntu-keyring
 udev
 upstart
 ureadahead
-
 whiptail
