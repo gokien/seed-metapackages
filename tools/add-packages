@@ -11,10 +11,14 @@ section="$1"
 shift
 
 while [ "$1" != "" ]; do
-    for file in $section-i386 $section-amd64 $section-armel $section-lpia $section-powerpc; do
-        echo $1 >> "$file"
-        cat "$file" | uniq | sort > "$file".tmp
-        mv --force "$file".tmp "$file"
+    for arch in i386 amd64 armel powerpc lpia; do
+        for file in $section-$arch; do
+            if [ -f "$file" ]; then
+                echo $1 >> "$file"
+                cat "$file" | uniq | sort > "$file".tmp
+                mv --force "$file".tmp "$file"
+            fi
+        done
     done
 shift
 done
