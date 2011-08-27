@@ -5,6 +5,7 @@ command-not-found
 friendly-recovery
 irqbalance
 ntfs-3g
+ntp
 openssh-client
 plymouth
 ppp
