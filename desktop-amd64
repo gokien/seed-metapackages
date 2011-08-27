@@ -5,6 +5,7 @@ at-spi2-core
 bc
 ca-certificates
 dmz-cursor-theme
+elementary-artwork
 evince
 file-roller
 foomatic-db-compressed-ppds
@@ -35,6 +36,7 @@ lightdm
 notify-osd
 nvidia-common
 openprinting-ppds
+pantheon
 pnm2ppa
 pulseaudio
 rarian-compat

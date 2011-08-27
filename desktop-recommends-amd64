@@ -1,3 +1,5 @@
+abiword
+abiword-plugin-grammar
 acpi-support
 app-install-data-partner
 avahi-autoipd
@@ -11,6 +13,7 @@ cups
 cups-bsd
 cups-client
 deja-dup
+elementary-default-settings
 empathy
 foo2zjs
 gcc
@@ -19,6 +22,7 @@ gnome-bluetooth
 gnome-codec-install
 gnome-disk-utility
 gnome-screensaver
+gnumeric
 gvfs-fuse
 hplip
 ibus
@@ -27,6 +31,11 @@ ibus-pinyin
 ibus-pinyin-db-android
 ibus-table
 im-switch
+indicator-application
+indicator-datetime
+indicator-me
+indicator-session
+indicator-sound
 jockey-gtk
 laptop-detect
 libgail-3-common
@@ -56,8 +65,11 @@ sni-qt
 splix
 telepathy-idle
 totem
+ttf-dejavu
+ttf-droid
 ttf-liberation
 ttf-ubuntu-font-family
+ttf-unifont
 ubuntuone-control-panel-gtk
 xcursor-themes
 xdg-utils
