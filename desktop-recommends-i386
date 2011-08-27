@@ -44,7 +44,6 @@ libnss-mdns
 libpam-gnome-keyring
 libwmf0.2-7-gtk
 linux-headers-generic
-make
 min12xxw
 network-manager-gnome
 network-manager-pptp
@@ -70,6 +69,5 @@ ttf-droid
 ttf-liberation
 ttf-ubuntu-font-family
 ttf-unifont
-ubuntuone-control-panel-gtk
 xcursor-themes
 xdg-utils
