@@ -9,5 +9,6 @@ fi
 
 while [ "$1" != "" ]; do
     sed -i 's/^'"$1"'$//g' *amd64 *i386 *armel *powerpc *lpia
+    sed -i '/^$/d' *amd64 *i386 *armel *powerpc *lpia
     shift
 done
