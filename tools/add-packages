@@ -1,0 +1,20 @@
+#!/bin/bash
+
+if [ "$1" = "" ] || [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
+    echo 'Adds package names to seed files parsed by Germinate'
+    echo 'Usage: '$(basename $0)' section package-name [package-name]...'
+    echo 'section examples: "minimal", "desktop-recommends"'
+    exit 1
+fi
+
+section="$1"
+shift
+
+while [ "$1" != "" ]; do
+    for file in $section-i386 $section-amd64 $section-armel $section-lpia $section-powerpc; do
+        echo $1 >> "$file"
+        cat "$file" | uniq | sort > "$file".tmp
+        mv --force "$file".tmp "$file"
+    done
+shift
+done
