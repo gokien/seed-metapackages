@@ -1,7 +1,7 @@
 Source: elementary-meta
 Section: metapackages
 Priority: optional
-Maintainer: Matt Zimmerman <mdz@elementary.com>
+Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
 Standards-Version: 3.9.2
 Build-Depends: debhelper (>= 7.0.8), germinate (>= 1.18)
 
