@@ -9,10 +9,10 @@ eject
 gnupg
 ifupdown
 initramfs-tools
-iproute
 iputils-ping
 isc-dhcp-client
 kbd
+less
 locales
 lsb-release
 mac-fdisk
@@ -21,6 +21,7 @@ mawk
 module-init-tools
 net-tools
 netbase
+ntpdate
 passwd
 pmac-fdisk
 powerpc-utils

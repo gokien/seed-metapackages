@@ -9,10 +9,10 @@ eject
 gnupg
 ifupdown
 initramfs-tools
-iproute
 iputils-ping
 isc-dhcp-client
 kbd
+less
 locales
 lsb-release
 makedev
@@ -20,6 +20,7 @@ mawk
 module-init-tools
 net-tools
 netbase
+ntpdate
 passwd
 procps
 python

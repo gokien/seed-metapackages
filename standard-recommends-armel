@@ -4,10 +4,12 @@ bash-completion
 command-not-found
 friendly-recovery
 irqbalance
+manpages
+nano
 ntfs-3g
-ntp
 openssh-client
 plymouth
+plymouth-theme-ubuntu-text
 ppp
 pppconfig
 pppoeconf

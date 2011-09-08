@@ -1,3 +1,94 @@
+ubuntu-meta (1.241) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added apport-gtk to desktop-recommends
+  * Added bluez-alsa to desktop-recommends
+  * Added brltty to desktop-recommends
+  * Added busybox-static to standard
+  * Added dc to desktop
+  * Added doc-base to desktop-recommends
+  * Added example-content to desktop-recommends
+  * Added ghostscript-x to desktop
+  * Added gnome-menus to desktop-recommends
+  * Added gnome-orca to desktop-recommends
+  * Added gnome-search-tool to desktop-recommends
+  * Added gnome-session-bin to desktop-recommends
+  * Added gstreamer0.10-plugins-base-apps to desktop-recommends
+  * Added info to standard
+  * Added less to minimal
+  * Added ltrace to standard
+  * Added make to desktop-recommends
+  * Added manpages to standard-recommends
+  * Added mousetweaks to desktop-recommends
+  * Added nano to standard-recommends
+  * Added ntpdate to minimal
+  * Added onboard to desktop-recommends
+  * Added p7zip-full to desktop-recommends
+  * Added plymouth-theme-ubuntu-text to standard-recommends
+  * Added speech-dispatcher to desktop-recommends
+  * Added ssh-askpass-gnome to desktop-recommends
+  * Added strace to standard
+  * Added time to standard
+  * Added ubuntuone-installer to desktop-recommends
+  * Added usb-creator-gtk to desktop-recommends [amd64 i386]
+  * Added x-ttcidfont-conf to desktop
+  * Added xorg to desktop
+  * Added xterm to desktop-recommends
+  * Removed abiword from desktop-recommends
+  * Removed abiword-plugin-grammar from desktop-recommends
+  * Removed bcmwl-kernel-source from minimal-recommends
+  * Removed elementary-artwork from desktop [armel powerpc]
+  * Removed elementary-default-settings from desktop-recommends [armel
+    powerpc]
+  * Removed exe-wrapper from desktop-recommends [armel powerpc]
+  * Removed gnome-control-center from desktop
+  * Removed gnome-disk-utility from desktop-recommends
+  * Removed indicator-me from desktop-recommends
+  * Removed iproute from minimal
+  * Removed memtest86+ from standard [amd64 i386]
+  * Removed pantheon from desktop [armel powerpc]
+  * Removed preload from minimal-recommends
+  * Removed ttf-dejavu from desktop-recommends
+  * Removed ttf-ubuntu-font-family from desktop-recommends
+  * Removed yelp from desktop
+  * Moved at-spi2-core to desktop-recommends
+  * Moved dmz-cursor-theme to desktop-recommends
+  * Moved evince to desktop-recommends
+  * Moved file-roller to desktop-recommends
+  * Moved gcalctool to desktop-recommends
+  * Moved gedit to desktop-recommends
+  * Moved gnome-media to desktop-recommends
+  * Moved gnome-power-manager to desktop-recommends
+  * Moved gnome-screenshot to desktop-recommends
+  * Moved gnome-system-monitor to desktop-recommends
+  * Moved gstreamer0.10-alsa to desktop-recommends
+  * Moved gstreamer0.10-pulseaudio to desktop-recommends
+  * Moved gucharmap to desktop-recommends
+  * Moved gwibber to desktop-recommends
+  * Moved language-selector-gnome to desktop-recommends
+  * Moved libatk-adaptor to desktop-recommends
+  * Moved libgd2-xpm to desktop-recommends
+  * Moved libnotify-bin to desktop-recommends
+  * Moved libsdl1.2debian to desktop-recommends
+  * Moved libsdl1.2debian-pulseaudio to desktop-recommends
+  * Moved lightdm to desktop-recommends
+  * Moved notify-osd to desktop-recommends
+  * Moved ntp to standard
+  * Moved pulseaudio to desktop-recommends
+  * Moved rarian-compat to desktop-recommends
+  * Moved seahorse to desktop-recommends
+  * Moved software-center to desktop-recommends
+  * Moved software-properties-gtk to desktop-recommends
+  * Moved system-config-printer-gnome to desktop-recommends
+  * Moved update-manager to desktop-recommends
+  * Moved update-notifier to desktop-recommends
+  * Moved xdg-user-dirs to desktop-recommends
+  * Moved xdg-user-dirs-gtk to desktop-recommends
+  * Moved xdiagnose to desktop-recommends
+  * Moved zenity to desktop-recommends
+
+ -- germinator <germinator@Germinator-Virtual>  Thu, 08 Sep 2011 23:57:45 +0400
+
 ubuntu-meta (1.240) oneiric; urgency=low
 
   * Refreshed dependencies
