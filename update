@@ -10,4 +10,7 @@ if ! which debootstrap >/dev/null; then
 	exit 1
 fi
 
-exec germinate-update-metapackage --bzr
+germinate-update-metapackage --bzr
+
+# a workaround to keep the desired package names
+sed -i 's/elementary-seed-/elementary-/g' metapackage-map
