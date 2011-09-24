@@ -103,13 +103,11 @@ totem
 ttf-droid
 ttf-liberation
 ttf-unifont
-ubuntuone-installer
 update-manager
 update-notifier
 xcursor-themes
 xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
-xdiagnose
 xterm
 zenity

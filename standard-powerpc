@@ -13,7 +13,6 @@ lsof
 ltrace
 man-db
 mime-support
-ntp
 pciutils
 psmisc
 strace

@@ -4,6 +4,7 @@ cpio
 cron
 dmidecode
 dosfstools
+elementary-standard
 file
 hdparm
 info
@@ -13,7 +14,6 @@ lsof
 ltrace
 man-db
 mime-support
-ntp
 pciutils
 psmisc
 strace

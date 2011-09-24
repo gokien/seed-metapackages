@@ -7,11 +7,13 @@ irqbalance
 manpages
 nano
 ntfs-3g
+ntp
 openssh-client
 plymouth
 plymouth-theme-ubuntu-text
 ppp
 pppconfig
 pppoeconf
+preload
 update-manager-core
 uuid-runtime
