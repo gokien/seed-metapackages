@@ -14,8 +14,6 @@ c2esp
 cups
 cups-bsd
 cups-client
-deja-dup
-dmz-cursor-theme
 doc-base
 elementary-default-settings
 empathy
@@ -23,6 +21,8 @@ evince
 example-content
 exe-wrapper
 file-roller
+fonts-liberation
+fonts-nanum
 foo2zjs
 gcalctool
 gcc
@@ -30,6 +30,7 @@ gedit
 ginn
 gnome-bluetooth
 gnome-codec-install
+gnome-font-viewer
 gnome-media
 gnome-menus
 gnome-orca
@@ -43,8 +44,8 @@ gstreamer0.10-alsa
 gstreamer0.10-plugins-base-apps
 gstreamer0.10-pulseaudio
 gucharmap
+gvfs-bin
 gvfs-fuse
-gwibber
 hplip
 ibus
 ibus-gtk3
@@ -60,7 +61,6 @@ jockey-gtk
 language-selector-gnome
 laptop-detect
 libatk-adaptor
-libgail-3-common
 libgail-common
 libgd2-xpm
 libnotify-bin
@@ -106,13 +106,10 @@ system-config-printer-gnome
 telepathy-idle
 totem
 ttf-droid
-ttf-liberation
 ttf-unifont
 update-manager
 update-notifier
-usb-creator-gtk
 xcursor-themes
-xdg-user-dirs
 xdg-user-dirs-gtk
 xdg-utils
 xterm

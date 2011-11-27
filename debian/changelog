@@ -1,3 +1,22 @@
+elementary-seed-meta (1.243) oneiric; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-liberation to desktop-recommends
+  * Added fonts-nanum to desktop-recommends
+  * Added gnome-font-viewer to desktop-recommends
+  * Added gvfs-bin to desktop-recommends
+  * Removed deja-dup from desktop-recommends
+  * Removed elementary-desktop from desktop [amd64 i386]
+  * Removed elementary-standard from standard [amd64 i386]
+  * Removed gwibber from desktop-recommends
+  * Removed libgail-3-common from desktop-recommends
+  * Removed ttf-liberation from desktop-recommends
+  * Removed usb-creator-gtk from desktop-recommends [amd64 i386]
+  * Moved dmz-cursor-theme to desktop
+  * Moved xdg-user-dirs to desktop
+
+ -- Germinator <germinator@germinator-VirtualBox>  Mon, 28 Nov 2011 01:51:39 +0400
+
 elementary-seed-meta (1.242) oneiric; urgency=low
 
   * Refreshed dependencies

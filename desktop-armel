@@ -5,6 +5,7 @@ apmd
 bc
 ca-certificates
 dc
+dmz-cursor-theme
 foomatic-db-compressed-ppds
 foomatic-filters
 genisoimage
@@ -22,6 +23,7 @@ unzip
 wireless-tools
 wpasupplicant
 x-ttcidfont-conf
+xdg-user-dirs
 xkb-data
 xorg
 zip
