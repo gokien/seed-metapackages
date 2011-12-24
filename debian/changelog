@@ -1,3 +1,13 @@
+elementary-meta (1.245) precise; urgency=low
+
+  * Refreshed dependencies
+  * Removed elementary-desktop from desktop
+  * Removed elementary-standard from standard
+  * Moved elementary-icon-theme to artwork
+  * Moved elementary-theme to artwork
+
+ -- root <germinator@germinator-VirtualBox>  Sat, 24 Dec 2011 19:38:01 +0000
+
 elementary-meta (1.244) precise; urgency=low
 
   * Refreshed dependencies

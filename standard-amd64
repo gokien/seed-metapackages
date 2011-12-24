@@ -3,7 +3,6 @@ busybox-static
 cpio
 cron
 dosfstools
-elementary-standard
 file
 hdparm
 info
