@@ -52,3 +52,15 @@ Description: elementary artwork
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
+Package: pantheon-shell
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Modern and modular DE-independent desktop shell
+ Pantheon Shell is a modern and modular DE-independent desktop shell
+ developed by elementary Project.
+ .
+ This package installs all components of the shell.
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
