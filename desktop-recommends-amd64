@@ -61,13 +61,13 @@ jockey-gtk
 language-selector-gnome
 laptop-detect
 libatk-adaptor
+libatk-adaptor-schemas
 libgail-common
 libgd2-xpm
 libnotify-bin
 libnss-mdns
 libpam-gnome-keyring
 libsdl1.2debian
-libsdl1.2debian-pulseaudio
 libwmf0.2-7-gtk
 lightdm
 linux-headers-generic

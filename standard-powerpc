@@ -8,14 +8,10 @@ hdparm
 hfsutils
 info
 language-selector-common
-lshw
-lsof
-ltrace
 man-db
 mime-support
 pciutils
 psmisc
-strace
 time
 usbutils
 wget

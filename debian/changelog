@@ -1,4 +1,20 @@
-elementary-seed-meta (1.243) oneiric; urgency=low
+elementary-meta (1.244) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added elementary-desktop to desktop [amd64 i386]
+  * Added elementary-standard to standard [amd64 i386]
+  * Added libatk-adaptor-schemas to desktop-recommends
+  * Removed libsdl1.2debian-pulseaudio from desktop-recommends
+  * Removed zramswap-enabler from standard-recommends [amd64 i386]
+  * Moved dmidecode to standard-recommends [amd64 i386]
+  * Moved lshw to standard-recommends
+  * Moved lsof to standard-recommends
+  * Moved ltrace to standard-recommends
+  * Moved strace to standard-recommends
+
+ -- root <germinator@germinator-VirtualBox>  Sat, 24 Dec 2011 17:43:29 +0000
+
+elementary-meta (1.243) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added fonts-liberation to desktop-recommends
@@ -17,7 +33,7 @@ elementary-seed-meta (1.243) oneiric; urgency=low
 
  -- Germinator <germinator@germinator-VirtualBox>  Mon, 28 Nov 2011 01:51:39 +0400
 
-elementary-seed-meta (1.242) oneiric; urgency=low
+elementary-meta (1.242) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added elementary-desktop to desktop [amd64 i386]
@@ -31,7 +47,7 @@ elementary-seed-meta (1.242) oneiric; urgency=low
 
  -- Germinator <germinator@germinator-VirtualBox>  Sat, 24 Sep 2011 13:25:43 +0400
 
-elementary-seed-meta (1.241) oneiric; urgency=low
+elementary-meta (1.241) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added apport-gtk to desktop-recommends
@@ -122,7 +138,7 @@ elementary-seed-meta (1.241) oneiric; urgency=low
 
  -- germinator <germinator@Germinator-Virtual>  Thu, 08 Sep 2011 23:57:45 +0400
 
-elementary-seed-meta (1.240) oneiric; urgency=low
+elementary-meta (1.240) oneiric; urgency=low
 
   * Refreshed dependencies
   * Removed gnome-user-guide from desktop-recommends
@@ -131,7 +147,7 @@ elementary-seed-meta (1.240) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 18 Aug 2011 06:36:35 +0200
 
-elementary-seed-meta (1.239) oneiric; urgency=low
+elementary-meta (1.239) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added c2esp to desktop-recommends
@@ -141,14 +157,14 @@ elementary-seed-meta (1.239) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Aug 2011 11:09:52 +0200
 
-elementary-seed-meta (1.238) oneiric; urgency=low
+elementary-meta (1.238) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added dmz-cursor-theme to desktop. (LP: #815555)
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Aug 2011 10:35:52 +0200
 
-elementary-seed-meta (1.237) oneiric; urgency=low
+elementary-meta (1.237) oneiric; urgency=low
 
   * Refreshed dependencies
   * Removed screensaver-default-images from desktop
@@ -162,7 +178,7 @@ elementary-seed-meta (1.237) oneiric; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Thu, 11 Aug 2011 13:40:04 +0200
 
-elementary-seed-meta (1.236) oneiric; urgency=low
+elementary-meta (1.236) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added gwibber to desktop
@@ -170,13 +186,13 @@ elementary-seed-meta (1.236) oneiric; urgency=low
 
  -- Ken VanDine <ken.vandine@canonical.com>  Fri, 05 Aug 2011 14:15:34 -0400
 
-elementary-seed-meta (1.235) oneiric; urgency=low
+elementary-meta (1.235) oneiric; urgency=low
 
   * Added xdiagnose
 
  -- Bryce Harrington <bryce@ubuntu.com>  Thu, 21 Jul 2011 16:41:34 -0700
 
-elementary-seed-meta (1.234) oneiric; urgency=low
+elementary-meta (1.234) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added ibus-pinyin to desktop-recommends
@@ -186,7 +202,7 @@ elementary-seed-meta (1.234) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 18 Jul 2011 10:34:46 +0200
 
-elementary-seed-meta (1.233) oneiric; urgency=low
+elementary-meta (1.233) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added ibus-gtk3 to desktop-recommends
@@ -199,7 +215,7 @@ elementary-seed-meta (1.233) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 12 Jul 2011 16:29:37 +0200
 
-elementary-seed-meta (1.232) oneiric; urgency=low
+elementary-meta (1.232) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added thunderbird to desktop-recommends
@@ -212,7 +228,7 @@ elementary-seed-meta (1.232) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 01 Jul 2011 15:14:00 +0100
 
-elementary-seed-meta (1.231) oneiric; urgency=low
+elementary-meta (1.231) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added deja-dup to desktop-recommends
@@ -222,21 +238,21 @@ elementary-seed-meta (1.231) oneiric; urgency=low
 
  -- Michael Terry <mterry@ubuntu.com>  Thu, 23 Jun 2011 11:10:58 -0400
 
-elementary-seed-meta (1.230) oneiric; urgency=low
+elementary-meta (1.230) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added debconf-i18n to minimal
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 16 Jun 2011 20:56:18 +0100
 
-elementary-seed-meta (1.229) oneiric; urgency=low
+elementary-meta (1.229) oneiric; urgency=low
 
   * Refreshed dependencies
   * Removed tomboy from desktop-recommends
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 16 Jun 2011 06:39:38 +0200
 
-elementary-seed-meta (1.228) oneiric; urgency=low
+elementary-meta (1.228) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added libatk-adaptor to desktop-recommends
@@ -244,7 +260,7 @@ elementary-seed-meta (1.228) oneiric; urgency=low
 
  -- Luke Yelavich <themuso@ubuntu.com>  Wed, 15 Jun 2011 14:55:01 +1000
 
-elementary-seed-meta (1.227) oneiric; urgency=low
+elementary-meta (1.227) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added lightdm to desktop
@@ -253,7 +269,7 @@ elementary-seed-meta (1.227) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 08 Jun 2011 12:07:15 +0200
 
-elementary-seed-meta (1.226) oneiric; urgency=low
+elementary-meta (1.226) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added at-spi2-core to desktop-recommends
@@ -265,7 +281,7 @@ elementary-seed-meta (1.226) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 07 Jun 2011 08:32:10 +0200
 
-elementary-seed-meta (1.225) oneiric; urgency=low
+elementary-meta (1.225) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added apparmor to standard-recommends
@@ -273,7 +289,7 @@ elementary-seed-meta (1.225) oneiric; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 06 Jun 2011 09:25:38 +0100
 
-elementary-seed-meta (1.224) oneiric; urgency=low
+elementary-meta (1.224) oneiric; urgency=low
 
   * Refreshed dependencies
   * Removed computer-janitor-gtk from desktop-recommends
@@ -283,7 +299,7 @@ elementary-seed-meta (1.224) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 30 May 2011 15:31:41 +0200
 
-elementary-seed-meta (1.223) oneiric; urgency=low
+elementary-meta (1.223) oneiric; urgency=low
 
   * Refreshed dependencies
   * Removed alacarte from desktop
@@ -304,7 +320,7 @@ elementary-seed-meta (1.223) oneiric; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 27 May 2011 09:04:47 +0200
 
-elementary-seed-meta (1.222) oneiric; urgency=low
+elementary-meta (1.222) oneiric; urgency=low
 
   * Refreshed dependencies
   * Added libnotify-bin to desktop
@@ -312,7 +328,7 @@ elementary-seed-meta (1.222) oneiric; urgency=low
 
  -- Didier Roche <didrocks@ubuntu.com>  Thu, 26 May 2011 16:33:30 +0200
 
-elementary-seed-meta (1.221) oneiric; urgency=low
+elementary-meta (1.221) oneiric; urgency=low
 
   * update.cfg: switch to oneiric.
   * Refreshed dependencies
@@ -320,7 +336,7 @@ elementary-seed-meta (1.221) oneiric; urgency=low
 
  -- Loïc Minier <lool@dooz.org>  Sat, 14 May 2011 19:44:19 +0200
 
-elementary-seed-meta (1.220) natty; urgency=low
+elementary-meta (1.220) natty; urgency=low
 
   * Refreshed dependencies
   * Added xul-ext-ubufox to desktop-recommends
@@ -328,14 +344,14 @@ elementary-seed-meta (1.220) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 19 Apr 2011 11:14:49 +0200
 
-elementary-seed-meta (1.219) natty; urgency=low
+elementary-meta (1.219) natty; urgency=low
 
   * Refreshed dependencies
   * Added overlay-scrollbar to desktop-recommends
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 06 Apr 2011 23:12:11 +0200
 
-elementary-seed-meta (1.218) natty; urgency=low
+elementary-meta (1.218) natty; urgency=low
 
   * Refreshed dependencies
   * Added rfkill to desktop
@@ -348,7 +364,7 @@ elementary-seed-meta (1.218) natty; urgency=low
 
  -- Luke Yelavich <themuso@ubuntu.com>  Fri, 01 Apr 2011 23:02:53 +1100
 
-elementary-seed-meta (1.217) natty; urgency=low
+elementary-meta (1.217) natty; urgency=low
 
   * Refreshed dependencies
   * Added libreoffice-style-human to desktop-recommends [amd64 i386
@@ -359,7 +375,7 @@ elementary-seed-meta (1.217) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 28 Feb 2011 12:21:50 +0100
 
-elementary-seed-meta (1.216) natty; urgency=low
+elementary-meta (1.216) natty; urgency=low
 
   * Refreshed dependencies
   * Added language-selector-gnome to desktop
@@ -367,7 +383,7 @@ elementary-seed-meta (1.216) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 24 Feb 2011 09:24:18 +0100
 
-elementary-seed-meta (1.215) natty; urgency=low
+elementary-meta (1.215) natty; urgency=low
 
   * Refreshed dependencies
   * Added ginn to desktop-recommends
@@ -375,7 +391,7 @@ elementary-seed-meta (1.215) natty; urgency=low
 
  -- Didier Roche <didrocks@ubuntu.com>  Fri, 18 Feb 2011 10:21:45 +0100
 
-elementary-seed-meta (1.214) natty; urgency=low
+elementary-meta (1.214) natty; urgency=low
 
   * Refreshed dependencies
   * Added libreoffice-style-tango to desktop-recommends [amd64 i386
@@ -385,7 +401,7 @@ elementary-seed-meta (1.214) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 29 Jan 2011 17:18:00 +0100
 
-elementary-seed-meta (1.213) natty; urgency=low
+elementary-meta (1.213) natty; urgency=low
 
   * Refreshed dependencies
   * Added libreoffice-calc to desktop-recommends [amd64 i386 powerpc]
@@ -416,7 +432,7 @@ elementary-seed-meta (1.213) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 24 Jan 2011 07:59:44 +0100
 
-elementary-seed-meta (1.212) natty; urgency=low
+elementary-meta (1.212) natty; urgency=low
 
   * Refreshed dependencies
   * Added banshee to desktop-recommends
@@ -426,7 +442,7 @@ elementary-seed-meta (1.212) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 07 Jan 2011 12:28:47 +0100
 
-elementary-seed-meta (1.211) natty; urgency=low
+elementary-meta (1.211) natty; urgency=low
 
   * Refreshed dependencies
   * Added gnome-system-tools to desktop
@@ -435,7 +451,7 @@ elementary-seed-meta (1.211) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 05 Jan 2011 13:13:42 +0100
 
-elementary-seed-meta (1.210) natty; urgency=low
+elementary-meta (1.210) natty; urgency=low
 
   * Refreshed dependencies
   * Added python2.7 to minimal. This is a workaround to avoid pulling
@@ -444,7 +460,7 @@ elementary-seed-meta (1.210) natty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 21 Dec 2010 12:46:45 +0100
 
-elementary-seed-meta (1.209) natty; urgency=low
+elementary-meta (1.209) natty; urgency=low
 
   * Refreshed dependencies
   * Added unity to desktop
@@ -452,7 +468,7 @@ elementary-seed-meta (1.209) natty; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 26 Nov 2010 18:01:26 +0000
 
-elementary-seed-meta (1.208) natty; urgency=low
+elementary-meta (1.208) natty; urgency=low
 
   * update.cfg: Switch to natty.
   * Refreshed dependencies
@@ -468,21 +484,21 @@ elementary-seed-meta (1.208) natty; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 15 Nov 2010 15:19:18 +0000
 
-elementary-seed-meta (1.207) maverick; urgency=low
+elementary-meta (1.207) maverick; urgency=low
 
   * Refreshed dependencies
   * Added ttf-ubuntu-font-family to desktop
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 28 Sep 2010 07:52:44 +0100
 
-elementary-seed-meta (1.206) maverick; urgency=low
+elementary-meta (1.206) maverick; urgency=low
 
   * Refreshed dependencies
   * Added ubuntu-extras-keyring to desktop (LP: #645436)
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sun, 26 Sep 2010 18:04:39 +0100
 
-elementary-seed-meta (1.205) maverick; urgency=low
+elementary-meta (1.205) maverick; urgency=low
 
   * Refreshed dependencies
   * Added foomatic-db-compressed-ppds to desktop
@@ -491,7 +507,7 @@ elementary-seed-meta (1.205) maverick; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 06 Sep 2010 11:39:21 +0100
 
-elementary-seed-meta (1.204) maverick; urgency=low
+elementary-meta (1.204) maverick; urgency=low
 
   * Removed support for ia64 and sparc.
   * Refreshed dependencies
@@ -499,14 +515,14 @@ elementary-seed-meta (1.204) maverick; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat, 28 Aug 2010 01:21:39 +0100
 
-elementary-seed-meta (1.203) maverick; urgency=low
+elementary-meta (1.203) maverick; urgency=low
 
   * Refreshed dependencies
   * Removed linux-headers-imx51 from desktop-recommends [armel]
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 25 Aug 2010 19:26:39 +0000
 
-elementary-seed-meta (1.202) maverick; urgency=low
+elementary-meta (1.202) maverick; urgency=low
 
   * Refreshed dependencies
   * Added ibus-pinyin to desktop-recommends
@@ -523,7 +539,7 @@ elementary-seed-meta (1.202) maverick; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 21 Aug 2010 09:58:51 +0200
 
-elementary-seed-meta (1.201) maverick; urgency=low
+elementary-meta (1.201) maverick; urgency=low
 
   * Refreshed dependencies
   * Removed pm-utils-powersave-policy from desktop-recommends
@@ -531,7 +547,7 @@ elementary-seed-meta (1.201) maverick; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 16 Jul 2010 06:58:07 +0200
 
-elementary-seed-meta (1.200) maverick; urgency=low
+elementary-meta (1.200) maverick; urgency=low
 
   * Refreshed dependencies
   * Added unclutter to desktop-recommends
@@ -550,7 +566,7 @@ elementary-seed-meta (1.200) maverick; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 30 Jun 2010 10:45:36 +0200
 
-elementary-seed-meta (1.199) maverick; urgency=low
+elementary-meta (1.199) maverick; urgency=low
 
   * Remove remaining traces of hppa and lpia.
   * Policy version 3.8.4.
@@ -560,7 +576,7 @@ elementary-seed-meta (1.199) maverick; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 04 Jun 2010 12:59:06 +0100
 
-elementary-seed-meta (1.198) maverick; urgency=low
+elementary-meta (1.198) maverick; urgency=low
 
   * update.cfg: Switch to maverick.
   * Convert to source format 3.0 (native).
@@ -569,7 +585,7 @@ elementary-seed-meta (1.198) maverick; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 20 May 2010 23:53:27 +0100
 
-elementary-seed-meta (1.197) lucid; urgency=low
+elementary-meta (1.197) lucid; urgency=low
 
   * Refreshed dependencies
   * Added ttf-khmeros-core to desktop-recommends
@@ -578,7 +594,7 @@ elementary-seed-meta (1.197) lucid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 19 Apr 2010 01:00:25 -0700
 
-elementary-seed-meta (1.196) lucid; urgency=low
+elementary-meta (1.196) lucid; urgency=low
 
   * Refreshed dependencies
   * Added ttf-kacst-one to desktop-recommends
@@ -588,7 +604,7 @@ elementary-seed-meta (1.196) lucid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Sat, 17 Apr 2010 03:13:03 -0700
 
-elementary-seed-meta (1.195) lucid; urgency=low
+elementary-meta (1.195) lucid; urgency=low
 
   * Refreshed dependencies
   * Added firefox to desktop-recommends [sparc]
@@ -598,7 +614,7 @@ elementary-seed-meta (1.195) lucid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 05 Apr 2010 01:52:58 -0700
 
-elementary-seed-meta (1.194) lucid; urgency=low
+elementary-meta (1.194) lucid; urgency=low
 
   * Refreshed dependencies
   * Added plymouth-theme-ubuntu-logo to standard-recommends [powerpc
@@ -611,7 +627,7 @@ elementary-seed-meta (1.194) lucid; urgency=low
 
  -- Luke Yelavich <themuso@ubuntu.com>  Thu, 01 Apr 2010 10:17:26 +1100
 
-elementary-seed-meta (1.193) lucid; urgency=low
+elementary-meta (1.193) lucid; urgency=low
 
   * Refreshed dependencies
   * Added plymouth-theme-ubuntu-logo to standard-recommends [amd64 armel
@@ -621,14 +637,14 @@ elementary-seed-meta (1.193) lucid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 26 Mar 2010 22:14:31 -0700
 
-elementary-seed-meta (1.192) lucid; urgency=low
+elementary-meta (1.192) lucid; urgency=low
 
   * Refreshed dependencies
   * Added libsdl1.2debian to desktop (LP: #527870)
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Thu, 25 Mar 2010 13:57:40 +0100
 
-elementary-seed-meta (1.191) lucid; urgency=low
+elementary-meta (1.191) lucid; urgency=low
 
   * Refreshed dependencies
   * Added policykit-desktop-privileges to desktop-recommends (LP: #455694)
@@ -636,7 +652,7 @@ elementary-seed-meta (1.191) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 22 Mar 2010 16:23:23 +0100
 
-elementary-seed-meta (1.190) lucid; urgency=low
+elementary-meta (1.190) lucid; urgency=low
 
   * Refreshed dependencies
   * Added network-manager-pptp to desktop-recommends (LP: #107738)
@@ -644,21 +660,21 @@ elementary-seed-meta (1.190) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Mar 2010 07:51:48 +0100
 
-elementary-seed-meta (1.189) lucid; urgency=low
+elementary-meta (1.189) lucid; urgency=low
 
   * Refreshed dependencies
   * Added libgail-gnome-module to desktop-recommends
 
  -- Luke Yelavich <themuso@ubuntu.com>  Tue, 02 Mar 2010 10:55:45 +1100
 
-elementary-seed-meta (1.188) lucid; urgency=low
+elementary-meta (1.188) lucid; urgency=low
 
   * Refreshed dependencies
   * Added rhythmbox-ubuntuone-music-store to desktop-recommends
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 23 Feb 2010 16:32:37 +0100
 
-elementary-seed-meta (1.187) lucid; urgency=low
+elementary-meta (1.187) lucid; urgency=low
 
   * Refreshed dependencies
   * Added bluez to desktop-recommends
@@ -672,7 +688,7 @@ elementary-seed-meta (1.187) lucid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 22 Feb 2010 17:10:05 -0800
 
-elementary-seed-meta (1.186) lucid; urgency=low
+elementary-meta (1.186) lucid; urgency=low
 
   * Refreshed dependencies
   * Added language-selector-common to standard
@@ -684,7 +700,7 @@ elementary-seed-meta (1.186) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 08 Feb 2010 16:48:23 +0100
 
-elementary-seed-meta (1.185) lucid; urgency=low
+elementary-meta (1.185) lucid; urgency=low
 
   * Refreshed dependencies
   * Added simple-scan to desktop-recommends
@@ -692,7 +708,7 @@ elementary-seed-meta (1.185) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 25 Jan 2010 19:32:06 +0100
 
-elementary-seed-meta (1.184) lucid; urgency=low
+elementary-meta (1.184) lucid; urgency=low
 
   * Refreshed dependencies
   * Added busybox-static to standard
@@ -706,7 +722,7 @@ elementary-seed-meta (1.184) lucid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 25 Jan 2010 00:13:47 -0800
 
-elementary-seed-meta (1.183) lucid; urgency=low
+elementary-meta (1.183) lucid; urgency=low
 
   * Refreshed dependencies
   * Added dash to minimal
@@ -714,7 +730,7 @@ elementary-seed-meta (1.183) lucid; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Mon, 11 Jan 2010 13:54:58 +0000
 
-elementary-seed-meta (1.182) lucid; urgency=low
+elementary-meta (1.182) lucid; urgency=low
 
   * Refreshed dependencies
   * Added gbrainy to desktop-recommends
@@ -723,7 +739,7 @@ elementary-seed-meta (1.182) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 07 Jan 2010 10:27:14 +0100
 
-elementary-seed-meta (1.181) lucid; urgency=low
+elementary-meta (1.181) lucid; urgency=low
 
   * Refreshed dependencies
   * Added bootchart to desktop-recommends [armel]
@@ -734,7 +750,7 @@ elementary-seed-meta (1.181) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 21 Dec 2009 08:46:16 +0100
 
-elementary-seed-meta (1.180) lucid; urgency=low
+elementary-meta (1.180) lucid; urgency=low
 
   * Refreshed dependencies
   * Removed usplash from desktop [amd64 armel i386 powerpc sparc]
@@ -743,21 +759,21 @@ elementary-seed-meta (1.180) lucid; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Fri, 11 Dec 2009 05:43:43 +0000
 
-elementary-seed-meta (1.179) lucid; urgency=low
+elementary-meta (1.179) lucid; urgency=low
 
   * Refreshed dependencies
   * Removed compiz from desktop-recommends [armel]
 
  -- Oliver Grawert <ogra@ubuntu.com>  Wed, 09 Dec 2009 12:04:33 +0100
 
-elementary-seed-meta (1.178) lucid; urgency=low
+elementary-meta (1.178) lucid; urgency=low
 
   * Refreshed dependencies
   * Removed diff from minimal
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 08 Dec 2009 18:24:43 +0000
 
-elementary-seed-meta (1.177) lucid; urgency=low
+elementary-meta (1.177) lucid; urgency=low
 
   * Refreshed dependencies
   * Remove lpia, which is being decommissioned (see
@@ -767,7 +783,7 @@ elementary-seed-meta (1.177) lucid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 03 Dec 2009 17:10:12 +0000
 
-elementary-seed-meta (1.176) lucid; urgency=low
+elementary-meta (1.176) lucid; urgency=low
 
   * update.cfg: Switch to lucid.
   * Refreshed dependencies
@@ -785,21 +801,21 @@ elementary-seed-meta (1.176) lucid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 02 Dec 2009 10:26:14 +0100
 
-elementary-seed-meta (1.175) karmic; urgency=low
+elementary-meta (1.175) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed rss-glx from desktop. (LP: #385850)
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 19 Oct 2009 10:23:09 +0200
 
-elementary-seed-meta (1.174) karmic; urgency=low
+elementary-meta (1.174) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed gstreamer0.10-schroedinger from desktop
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 14 Oct 2009 22:27:51 -0700
 
-elementary-seed-meta (1.173) karmic; urgency=low
+elementary-meta (1.173) karmic; urgency=low
 
   * Refreshed dependencies
   * Added openoffice.org-style-human to desktop-recommends [amd64 armel
@@ -807,14 +823,14 @@ elementary-seed-meta (1.173) karmic; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 13 Oct 2009 15:50:08 -0700
 
-elementary-seed-meta (1.172) karmic; urgency=low
+elementary-meta (1.172) karmic; urgency=low
 
   * Refreshed dependencies
   * Added libgd2-xpm to desktop
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 01 Oct 2009 07:19:30 -0700
 
-elementary-seed-meta (1.171) karmic; urgency=low
+elementary-meta (1.171) karmic; urgency=low
 
   * Refreshed dependencies
   * Added software-center to desktop
@@ -823,7 +839,7 @@ elementary-seed-meta (1.171) karmic; urgency=low
 
  -- Loïc Minier <loic.minier@ubuntu.com>  Sat, 26 Sep 2009 16:44:58 +0200
 
-elementary-seed-meta (1.170) karmic; urgency=low
+elementary-meta (1.170) karmic; urgency=low
 
   * Refreshed dependencies
   * Added linux-headers-dove to desktop-recommends [armel]; LP: #427199.
@@ -832,7 +848,7 @@ elementary-seed-meta (1.170) karmic; urgency=low
 
  -- Loïc Minier <loic.minier@ubuntu.com>  Wed, 23 Sep 2009 10:39:20 +0200
 
-elementary-seed-meta (1.169) karmic; urgency=low
+elementary-meta (1.169) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed gnome-app-install from desktop
@@ -840,14 +856,14 @@ elementary-seed-meta (1.169) karmic; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 15 Sep 2009 18:47:38 -0700
 
-elementary-seed-meta (1.168) karmic; urgency=low
+elementary-meta (1.168) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed libc6-vfp from minimal [armel]
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Mon, 14 Sep 2009 12:48:10 +1000
 
-elementary-seed-meta (1.167) karmic; urgency=low
+elementary-meta (1.167) karmic; urgency=low
 
   * Refreshed dependencies
   * Added openoffice.org-calc to desktop-recommends [armel]
@@ -861,14 +877,14 @@ elementary-seed-meta (1.167) karmic; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Sun, 06 Sep 2009 12:02:05 +0200
 
-elementary-seed-meta (1.166) karmic; urgency=low
+elementary-meta (1.166) karmic; urgency=low
 
   * Refreshed dependencies
   * Added language-support-translations-en to desktop [armel]
 
  -- Oliver Grawert <ogra@ubuntu.com>  Wed, 02 Sep 2009 20:41:57 +0200
 
-elementary-seed-meta (1.165) karmic; urgency=low
+elementary-meta (1.165) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed openoffice.org-calc from desktop-recommends [armel]
@@ -879,7 +895,7 @@ elementary-seed-meta (1.165) karmic; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Wed, 02 Sep 2009 15:38:27 +0200
 
-elementary-seed-meta (1.164) karmic; urgency=low
+elementary-meta (1.164) karmic; urgency=low
 
   * Refreshed dependencies
   * Added evolution-couchdb to desktop-recommends
@@ -892,7 +908,7 @@ elementary-seed-meta (1.164) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 31 Aug 2009 17:41:11 +0200
 
-elementary-seed-meta (1.163) karmic; urgency=low
+elementary-meta (1.163) karmic; urgency=low
 
   * Refreshed dependencies
   * Added ibus to desktop-recommends [amd64 armel ia64 lpia powerpc
@@ -918,7 +934,7 @@ elementary-seed-meta (1.163) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 26 Aug 2009 22:15:37 +0200
 
-elementary-seed-meta (1.162) karmic; urgency=low
+elementary-meta (1.162) karmic; urgency=low
 
   * Refreshed dependencies
   * Added indicator-applet-session to desktop [amd64 armel i386 ia64
@@ -929,7 +945,7 @@ elementary-seed-meta (1.162) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 25 Aug 2009 16:08:55 +0200
 
-elementary-seed-meta (1.161) karmic; urgency=low
+elementary-meta (1.161) karmic; urgency=low
 
   * Refreshed dependencies
   * Added ttf-dejavu-core to desktop
@@ -938,7 +954,7 @@ elementary-seed-meta (1.161) karmic; urgency=low
 
  -- Evan Dandrea <evand@ubuntu.com>  Thu, 20 Aug 2009 12:21:31 +0100
 
-elementary-seed-meta (1.160) karmic; urgency=low
+elementary-meta (1.160) karmic; urgency=low
 
   * Refreshed dependencies
   * Added ttf-dejavu to desktop
@@ -947,7 +963,7 @@ elementary-seed-meta (1.160) karmic; urgency=low
 
  -- Evan Dandrea <evand@ubuntu.com>  Tue, 18 Aug 2009 16:10:36 +0100
 
-elementary-seed-meta (1.159) karmic; urgency=low
+elementary-meta (1.159) karmic; urgency=low
 
   * Refreshed dependencies
   * Added gnome-bluetooth to desktop-recommends
@@ -956,7 +972,7 @@ elementary-seed-meta (1.159) karmic; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 11 Aug 2009 18:11:09 -0700
 
-elementary-seed-meta (1.158) karmic; urgency=low
+elementary-meta (1.158) karmic; urgency=low
 
   * Convert to debhelper v7, with the new debhelper addon in germinate 1.18.
   * Policy version 3.8.2.
@@ -970,7 +986,7 @@ elementary-seed-meta (1.158) karmic; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 10 Aug 2009 23:48:21 +0100
 
-elementary-seed-meta (1.157) karmic; urgency=low
+elementary-meta (1.157) karmic; urgency=low
 
   * Refreshed dependencies
   * Added openoffice.org-help-en-us to desktop-recommends
@@ -980,7 +996,7 @@ elementary-seed-meta (1.157) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 03 Aug 2009 15:24:53 +0100
 
-elementary-seed-meta (1.156) karmic; urgency=low
+elementary-meta (1.156) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed contact-lookup-applet from desktop-recommends
@@ -988,7 +1004,7 @@ elementary-seed-meta (1.156) karmic; urgency=low
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Wed, 29 Jul 2009 18:30:03 +1000
 
-elementary-seed-meta (1.155) karmic; urgency=low
+elementary-meta (1.155) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed libgnomevfs2-bin from desktop
@@ -996,7 +1012,7 @@ elementary-seed-meta (1.155) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 21 Jul 2009 01:12:07 +0200
 
-elementary-seed-meta (1.154) karmic; urgency=low
+elementary-meta (1.154) karmic; urgency=low
 
   * Refreshed dependencies
   * Added apmd to desktop [armel]
@@ -1005,21 +1021,21 @@ elementary-seed-meta (1.154) karmic; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat, 18 Jul 2009 09:42:41 +0100
 
-elementary-seed-meta (1.153) karmic; urgency=low
+elementary-meta (1.153) karmic; urgency=low
 
   * Refreshed dependencies
   * Added ubuntuone-client-gnome to desktop-recommends
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 15 Jul 2009 15:35:44 +0200
 
-elementary-seed-meta (1.152) karmic; urgency=low
+elementary-meta (1.152) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed pidgin-libnotify from desktop-recommends
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 15 Jul 2009 10:10:39 +0200
 
-elementary-seed-meta (1.151) karmic; urgency=low
+elementary-meta (1.151) karmic; urgency=low
 
   * Refreshed dependencies
   * Added empathy to desktop-recommends
@@ -1029,7 +1045,7 @@ elementary-seed-meta (1.151) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 14 Jul 2009 19:20:08 +0200
 
-elementary-seed-meta (1.150) karmic; urgency=low
+elementary-meta (1.150) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed startup-tasks from minimal
@@ -1039,7 +1055,7 @@ elementary-seed-meta (1.150) karmic; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 10 Jul 2009 10:11:28 +0100
 
-elementary-seed-meta (1.149) karmic; urgency=low
+elementary-meta (1.149) karmic; urgency=low
 
   * Refreshed dependencies
   * Removed fast-user-switch-applet from desktop
@@ -1047,7 +1063,7 @@ elementary-seed-meta (1.149) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 03 Jul 2009 09:33:05 +0200
 
-elementary-seed-meta (1.148) karmic; urgency=low
+elementary-meta (1.148) karmic; urgency=low
 
   * Refreshed dependencies
   * Added f-spot to desktop-recommends [armel]
@@ -1056,7 +1072,7 @@ elementary-seed-meta (1.148) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 29 Jun 2009 14:28:47 +0200
 
-elementary-seed-meta (1.147) karmic; urgency=low
+elementary-meta (1.147) karmic; urgency=low
 
   * Refreshed dependencies
   * Added pidgin to desktop-recommends
@@ -1065,7 +1081,7 @@ elementary-seed-meta (1.147) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 19 Jun 2009 11:36:42 +0200
 
-elementary-seed-meta (1.146) karmic; urgency=low
+elementary-meta (1.146) karmic; urgency=low
 
   * Refreshed dependencies
   * Added empathy to desktop-recommends
@@ -1074,7 +1090,7 @@ elementary-seed-meta (1.146) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 17 Jun 2009 13:38:04 +0200
 
-elementary-seed-meta (1.145) karmic; urgency=low
+elementary-meta (1.145) karmic; urgency=low
 
   * Refreshed dependencies
   * Added pulseaudio-module-bluetooth to desktop-recommends [amd64 armel
@@ -1084,7 +1100,7 @@ elementary-seed-meta (1.145) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 15 Jun 2009 12:25:56 +0200
 
-elementary-seed-meta (1.144) karmic; urgency=low
+elementary-meta (1.144) karmic; urgency=low
 
   * Refreshed dependencies
   * Added mktemp to minimal [amd64 armel i386 ia64 lpia powerpc sparc]
@@ -1096,7 +1112,7 @@ elementary-seed-meta (1.144) karmic; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 12 Jun 2009 14:06:04 -0700
 
-elementary-seed-meta (1.143) karmic; urgency=low
+elementary-meta (1.143) karmic; urgency=low
 
   * Refreshed dependencies
   * Added linux-headers-ia64 to desktop-recommends [ia64]
@@ -1106,7 +1122,7 @@ elementary-seed-meta (1.143) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 05 Jun 2009 09:16:00 +0200
 
-elementary-seed-meta (1.142) karmic; urgency=low
+elementary-meta (1.142) karmic; urgency=low
 
   * Refreshed dependencies
   * Added udev-extras to standard
@@ -1115,7 +1131,7 @@ elementary-seed-meta (1.142) karmic; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 12 May 2009 08:24:28 +0200
 
-elementary-seed-meta (1.141) karmic; urgency=low
+elementary-meta (1.141) karmic; urgency=low
 
   * update.cfg:
     - Switch to Karmic.
@@ -1126,7 +1142,7 @@ elementary-seed-meta (1.141) karmic; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 29 Apr 2009 00:11:12 +0100
 
-elementary-seed-meta (1.140) jaunty; urgency=low
+elementary-meta (1.140) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added libc6-vfp to minimal [armel]
@@ -1141,7 +1157,7 @@ elementary-seed-meta (1.140) jaunty; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Tue, 31 Mar 2009 12:46:58 +0200
 
-elementary-seed-meta (1.139) jaunty; urgency=low
+elementary-meta (1.139) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added evolution-indicator to desktop-recommends [hppa]
@@ -1150,7 +1166,7 @@ elementary-seed-meta (1.139) jaunty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 16 Mar 2009 15:11:52 +0100
 
-elementary-seed-meta (1.138) jaunty; urgency=low
+elementary-meta (1.138) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added computer-janitor-gtk to desktop-recommends
@@ -1160,7 +1176,7 @@ elementary-seed-meta (1.138) jaunty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 25 Feb 2009 15:13:32 +0100
 
-elementary-seed-meta (1.137) jaunty; urgency=low
+elementary-meta (1.137) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added computer-janitor to desktop-recommends
@@ -1171,7 +1187,7 @@ elementary-seed-meta (1.137) jaunty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 24 Feb 2009 00:21:49 +0100
 
-elementary-seed-meta (1.136) jaunty; urgency=low
+elementary-meta (1.136) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added notify-osd to desktop [amd64 hppa i386 ia64 lpia powerpc
@@ -1181,7 +1197,7 @@ elementary-seed-meta (1.136) jaunty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 18 Feb 2009 22:21:45 +0100
 
-elementary-seed-meta (1.135) jaunty; urgency=low
+elementary-meta (1.135) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added indicator-messages to desktop-recommends [hppa]
@@ -1190,7 +1206,7 @@ elementary-seed-meta (1.135) jaunty; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Wed, 18 Feb 2009 17:34:46 +0000
 
-elementary-seed-meta (1.134) jaunty; urgency=low
+elementary-meta (1.134) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added alsdorf to desktop [amd64 hppa i386 ia64 lpia powerpc sparc]
@@ -1202,7 +1218,7 @@ elementary-seed-meta (1.134) jaunty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 18 Feb 2009 11:21:49 +0100
 
-elementary-seed-meta (1.133) jaunty; urgency=low
+elementary-meta (1.133) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added apt-transport-https to standard-recommends
@@ -1210,7 +1226,7 @@ elementary-seed-meta (1.133) jaunty; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 10 Feb 2009 18:05:46 +0000
 
-elementary-seed-meta (1.132) jaunty; urgency=low
+elementary-meta (1.132) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added checkbox-gtk to desktop [amd64 armel hppa ia64 lpia powerpc
@@ -1223,7 +1239,7 @@ elementary-seed-meta (1.132) jaunty; urgency=low
 
  -- Loic Minier <lool@dooz.org>  Sat, 31 Jan 2009 22:28:04 +0100
 
-elementary-seed-meta (1.131) jaunty; urgency=low
+elementary-meta (1.131) jaunty; urgency=low
 
   * Refreshed dependencies
   * Removed libdeskbar-tracker from desktop-recommends
@@ -1231,7 +1247,7 @@ elementary-seed-meta (1.131) jaunty; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 15 Jan 2009 19:20:48 +0000
 
-elementary-seed-meta (1.130) jaunty; urgency=low
+elementary-meta (1.130) jaunty; urgency=low
 
   * Refreshed dependencies
   * Removed deskbar-applet from desktop-recommends
@@ -1243,14 +1259,14 @@ elementary-seed-meta (1.130) jaunty; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 15 Jan 2009 14:51:53 +0000
 
-elementary-seed-meta (1.129) jaunty; urgency=low
+elementary-meta (1.129) jaunty; urgency=low
 
   * Refreshed dependencies
   * Moved w3m to standard-recommends
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 12 Jan 2009 10:28:36 +0000
 
-elementary-seed-meta (1.128) jaunty; urgency=low
+elementary-meta (1.128) jaunty; urgency=low
 
   * Refreshed dependencies
   * Removed acpi from desktop [amd64 i386 ia64 lpia]
@@ -1261,7 +1277,7 @@ elementary-seed-meta (1.128) jaunty; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 18 Dec 2008 07:24:06 +0000
 
-elementary-seed-meta (1.127) jaunty; urgency=low
+elementary-meta (1.127) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added ttf-sazanami-gothic to desktop-recommends
@@ -1271,7 +1287,7 @@ elementary-seed-meta (1.127) jaunty; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 15 Dec 2008 05:56:19 +0000
 
-elementary-seed-meta (1.126) jaunty; urgency=low
+elementary-meta (1.126) jaunty; urgency=low
 
   * Refreshed dependencies
   * Added alsa-utils to desktop [armel]
@@ -1366,7 +1382,7 @@ elementary-seed-meta (1.126) jaunty; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 27 Nov 2008 18:45:38 +0000
 
-elementary-seed-meta (1.125) jaunty; urgency=low
+elementary-meta (1.125) jaunty; urgency=low
 
   * Refreshed dependencies
   * Removed ttf-dejavu-core from desktop [amd64 hppa i386 ia64 lpia
@@ -1375,21 +1391,21 @@ elementary-seed-meta (1.125) jaunty; urgency=low
 
  -- Matthias Klose <doko@ubuntu.com>  Sun, 16 Nov 2008 21:11:54 +0100
 
-elementary-seed-meta (1.124) intrepid; urgency=low
+elementary-meta (1.124) intrepid; urgency=low
 
   * Refreshed dependencies
   * Removed system-cleaner-gtk from desktop
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 28 Oct 2008 00:29:47 -0700
 
-elementary-seed-meta (1.123) intrepid; urgency=low
+elementary-meta (1.123) intrepid; urgency=low
 
   * Refreshed dependencies
   * Removed diveintopython from desktop-recommends (LP: #241920)
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 24 Oct 2008 10:45:57 +0200
 
-elementary-seed-meta (1.122) intrepid; urgency=low
+elementary-meta (1.122) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added wireless-tools to desktop
@@ -1399,14 +1415,14 @@ elementary-seed-meta (1.122) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 20 Oct 2008 17:08:09 +0100
 
-elementary-seed-meta (1.121) intrepid; urgency=low
+elementary-meta (1.121) intrepid; urgency=low
 
   * Refreshed dependencies
   * Removed usb-creator from desktop-recommends [hppa ia64 powerpc sparc]
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat, 18 Oct 2008 10:30:50 +0100
 
-elementary-seed-meta (1.120) intrepid; urgency=low
+elementary-meta (1.120) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added openoffice.org-math to desktop-recommends [amd64 i386 powerpc]
@@ -1415,7 +1431,7 @@ elementary-seed-meta (1.120) intrepid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Fri, 17 Oct 2008 19:22:43 -0700
 
-elementary-seed-meta (1.119) intrepid; urgency=low
+elementary-meta (1.119) intrepid; urgency=low
 
   * Refreshed dependencies
   * Removed gimp-gnomevfs from desktop-recommends
@@ -1423,7 +1439,7 @@ elementary-seed-meta (1.119) intrepid; urgency=low
 
  -- Evan Dandrea <evand@ubuntu.com>  Wed, 08 Oct 2008 20:51:25 -0400
 
-elementary-seed-meta (1.118) intrepid; urgency=low
+elementary-meta (1.118) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added gstreamer0.10-schroedinger to desktop
@@ -1437,14 +1453,14 @@ elementary-seed-meta (1.118) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 08 Oct 2008 13:21:24 +0100
 
-elementary-seed-meta (1.117) intrepid; urgency=low
+elementary-meta (1.117) intrepid; urgency=low
 
   * Refreshed dependencies
   * Removed landscape-common from desktop-recommends
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 29 Sep 2008 19:51:28 -0700
 
-elementary-seed-meta (1.116) intrepid; urgency=low
+elementary-meta (1.116) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added linux-headers-lpia to desktop-recommends [lpia]
@@ -1452,7 +1468,7 @@ elementary-seed-meta (1.116) intrepid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 25 Sep 2008 17:05:48 -0700
 
-elementary-seed-meta (1.115) intrepid; urgency=low
+elementary-meta (1.115) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added landscape-common to desktop-recommends
@@ -1460,7 +1476,7 @@ elementary-seed-meta (1.115) intrepid; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 24 Sep 2008 17:34:17 -0700
 
-elementary-seed-meta (1.114) intrepid; urgency=low
+elementary-meta (1.114) intrepid; urgency=low
 
   * Remove universe from consideration during update, since we no longer
     need it to process the mobile seed.
@@ -1470,7 +1486,7 @@ elementary-seed-meta (1.114) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 19 Sep 2008 02:38:33 +0100
 
-elementary-seed-meta (1.113) intrepid; urgency=low
+elementary-meta (1.113) intrepid; urgency=low
 
   * Refreshed dependencies
   * Removed ethtool from minimal
@@ -1479,7 +1495,7 @@ elementary-seed-meta (1.113) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 Sep 2008 11:29:18 +0100
 
-elementary-seed-meta (1.112) intrepid; urgency=low
+elementary-meta (1.112) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added aptitude to standard
@@ -1489,7 +1505,7 @@ elementary-seed-meta (1.112) intrepid; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Tue, 02 Sep 2008 12:05:05 +0200
 
-elementary-seed-meta (1.111) intrepid; urgency=low
+elementary-meta (1.111) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added kbd to minimal
@@ -1498,7 +1514,7 @@ elementary-seed-meta (1.111) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 27 Aug 2008 14:12:35 +0100
 
-elementary-seed-meta (1.110) intrepid; urgency=low
+elementary-meta (1.110) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added cups-driver-gutenprint to desktop
@@ -1506,7 +1522,7 @@ elementary-seed-meta (1.110) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 22 Aug 2008 14:41:59 +0100
 
-elementary-seed-meta (1.109) intrepid; urgency=low
+elementary-meta (1.109) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added libpam-ck-connector to desktop
@@ -1514,7 +1530,7 @@ elementary-seed-meta (1.109) intrepid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 05 Aug 2008 10:26:39 +0200
 
-elementary-seed-meta (1.108) intrepid; urgency=low
+elementary-meta (1.108) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added gdm-guest-session to desktop-recommends
@@ -1529,7 +1545,7 @@ elementary-seed-meta (1.108) intrepid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 04 Aug 2008 12:06:00 +0200
 
-elementary-seed-meta (1.107) intrepid; urgency=low
+elementary-meta (1.107) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added inputattach to desktop
@@ -1548,7 +1564,7 @@ elementary-seed-meta (1.107) intrepid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 17 Jul 2008 11:27:17 +0100
 
-elementary-seed-meta (1.106) intrepid; urgency=low
+elementary-meta (1.106) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added rarian-compat to desktop
@@ -1557,7 +1573,7 @@ elementary-seed-meta (1.106) intrepid; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 17 Jul 2008 10:33:30 +0100
 
-elementary-seed-meta (1.105) intrepid; urgency=low
+elementary-meta (1.105) intrepid; urgency=low
 
   * Bump germinate build-dependency to 1.0 so that Essential packages don't
     get added back to ubuntu-minimal again.
@@ -1599,7 +1615,7 @@ elementary-seed-meta (1.105) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 14 Jul 2008 10:54:09 +0100
 
-elementary-seed-meta (1.104) intrepid; urgency=low
+elementary-meta (1.104) intrepid; urgency=low
 
   * Refreshed dependencies
   * Added base-files to minimal-i386, minimal-amd64, minimal-powerpc,
@@ -1657,7 +1673,7 @@ elementary-seed-meta (1.104) intrepid; urgency=low
 
  -- Loic Minier <lool@dooz.org>  Tue, 01 Jul 2008 19:32:58 +0200
 
-elementary-seed-meta (1.103) intrepid; urgency=low
+elementary-meta (1.103) intrepid; urgency=low
 
   * update.cfg:
     - Switch to Intrepid.
@@ -1701,7 +1717,7 @@ elementary-seed-meta (1.103) intrepid; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 24 Jun 2008 11:08:33 +0100
 
-elementary-seed-meta (1.102) hardy; urgency=low
+elementary-meta (1.102) hardy; urgency=low
 
   * Refreshed dependencies
   * Added update-manager to desktop-i386, desktop-amd64, desktop-
@@ -1709,7 +1725,7 @@ elementary-seed-meta (1.102) hardy; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 21 Apr 2008 21:41:00 +0200
 
-elementary-seed-meta (1.101) hardy; urgency=low
+elementary-meta (1.101) hardy; urgency=low
 
   * Refreshed dependencies
   * Added alsa-utils to mobile-i386, mobile-amd64, mobile-powerpc,
@@ -1720,7 +1736,7 @@ elementary-seed-meta (1.101) hardy; urgency=low
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Mon, 21 Apr 2008 18:05:54 +1000
 
-elementary-seed-meta (1.100) hardy; urgency=low
+elementary-meta (1.100) hardy; urgency=low
 
   * Refreshed dependencies
   * Added hildon-desktop-dbg to mobile-dev-i386, mobile-dev-amd64,
@@ -1754,7 +1770,7 @@ elementary-seed-meta (1.100) hardy; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 15 Apr 2008 13:05:48 -0700
 
-elementary-seed-meta (1.99) hardy; urgency=low
+elementary-meta (1.99) hardy; urgency=low
 
   * Refreshed dependencies
   * Added ca-certificates to desktop-i386, desktop-amd64, desktop-
@@ -1778,7 +1794,7 @@ elementary-seed-meta (1.99) hardy; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Tue, 08 Apr 2008 00:05:10 -0700
 
-elementary-seed-meta (1.98) hardy; urgency=low
+elementary-meta (1.98) hardy; urgency=low
 
   * Refreshed dependencies
   * Added bash-completion to standard-recommends-i386, standard-
@@ -1799,7 +1815,7 @@ elementary-seed-meta (1.98) hardy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 31 Mar 2008 15:52:18 +0200
 
-elementary-seed-meta (1.97) hardy; urgency=low
+elementary-meta (1.97) hardy; urgency=low
 
   * Refreshed dependencies
   * Added desktop-file-utils to mobile-i386, mobile-amd64, mobile-
@@ -1812,7 +1828,7 @@ elementary-seed-meta (1.97) hardy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 14 Mar 2008 10:59:05 +0100
 
-elementary-seed-meta (1.96) hardy; urgency=low
+elementary-meta (1.96) hardy; urgency=low
 
   * Refreshed dependencies
   * Removed ttf-mgopen from desktop-recommends-i386, desktop-recommends-
@@ -1825,7 +1841,7 @@ elementary-seed-meta (1.96) hardy; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Wed, 05 Mar 2008 11:37:53 -0800
 
-elementary-seed-meta (1.95) hardy; urgency=low
+elementary-meta (1.95) hardy; urgency=low
 
   * Refreshed dependencies
   * Added im-switch to desktop-recommends-i386, desktop-recommends-
@@ -1862,7 +1878,7 @@ elementary-seed-meta (1.95) hardy; urgency=low
 
  -- Michael Vogt <mvo@ubuntu.com>  Wed, 05 Mar 2008 10:37:34 +0100
 
-elementary-seed-meta (1.94) hardy; urgency=low
+elementary-meta (1.94) hardy; urgency=low
 
   * Refreshed dependencies
   * Added alsa-base to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -1882,7 +1898,7 @@ elementary-seed-meta (1.94) hardy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 18 Feb 2008 17:57:28 +0000
 
-elementary-seed-meta (1.93) hardy; urgency=low
+elementary-meta (1.93) hardy; urgency=low
 
   * Add seed_map/desktop to update.cfg to cope with seed reorganisation.
   * Remove output_seeds from update.cfg (and 'required' from seeds option),
@@ -1918,7 +1934,7 @@ elementary-seed-meta (1.93) hardy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 12 Feb 2008 14:04:12 +0000
 
-elementary-seed-meta (1.92) hardy; urgency=low
+elementary-meta (1.92) hardy; urgency=low
 
   * Refreshed dependencies
   * Added liferea to mobile-i386, mobile-amd64, mobile-powerpc, mobile-
@@ -1926,7 +1942,7 @@ elementary-seed-meta (1.92) hardy; urgency=low
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Fri, 01 Feb 2008 10:22:50 +1100
 
-elementary-seed-meta (1.91) hardy; urgency=low
+elementary-meta (1.91) hardy; urgency=low
 
   * Refreshed dependencies
   * Removed moblin-chat from mobile-i386, mobile-amd64, mobile-powerpc,
@@ -1934,7 +1950,7 @@ elementary-seed-meta (1.91) hardy; urgency=low
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Wed, 30 Jan 2008 16:37:37 -0800
 
-elementary-seed-meta (1.90) hardy; urgency=low
+elementary-meta (1.90) hardy; urgency=low
 
   * Refreshed dependencies
   * Added system-config-printer-gnome to desktop-i386, desktop-amd64,
@@ -1946,7 +1962,7 @@ elementary-seed-meta (1.90) hardy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 29 Jan 2008 15:04:48 +0000
 
-elementary-seed-meta (1.89) hardy; urgency=low
+elementary-meta (1.89) hardy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-volume-manager to mobile-i386, mobile-amd64, mobile-
@@ -1961,7 +1977,7 @@ elementary-seed-meta (1.89) hardy; urgency=low
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Tue, 29 Jan 2008 11:04:30 +1100
 
-elementary-seed-meta (1.88) hardy; urgency=low
+elementary-meta (1.88) hardy; urgency=low
 
   * Refreshed dependencies
   * Added libpt-1.10.10-plugins-v4l to desktop-i386, desktop-amd64,
@@ -1986,7 +2002,7 @@ elementary-seed-meta (1.88) hardy; urgency=low
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 21 Jan 2008 16:02:32 +0000
 
-elementary-seed-meta (1.87) hardy; urgency=low
+elementary-meta (1.87) hardy; urgency=low
 
   * Refreshed dependencies
   * Added brasero to desktop-recommends-i386, desktop-recommends-amd64,
@@ -2015,7 +2031,7 @@ elementary-seed-meta (1.87) hardy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 14 Jan 2008 18:30:14 +0100
 
-elementary-seed-meta (1.86) hardy; urgency=low
+elementary-meta (1.86) hardy; urgency=low
 
   * Refreshed dependencies
   * Added ttf-sil-gentium to desktop-recommends-i386, desktop-
@@ -2031,7 +2047,7 @@ elementary-seed-meta (1.86) hardy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 19 Dec 2007 17:59:59 +0100
 
-elementary-seed-meta (1.85) hardy; urgency=low
+elementary-meta (1.85) hardy; urgency=low
 
   * Refreshed dependencies
   * Added cheese to mobile-hppa
@@ -2050,7 +2066,7 @@ elementary-seed-meta (1.85) hardy; urgency=low
 
  -- Steve Langasek <vorlon@debian.org>  Wed, 19 Dec 2007 02:41:15 -0800
 
-elementary-seed-meta (1.84) hardy; urgency=low
+elementary-meta (1.84) hardy; urgency=low
 
   * Refreshed dependencies
   * Added autoconf to mobile-dev-i386, mobile-dev-amd64, mobile-dev-
@@ -2145,7 +2161,7 @@ elementary-seed-meta (1.84) hardy; urgency=low
 
  -- Steve Kowalik <stevenk@ubuntu.com>  Tue, 04 Dec 2007 18:32:43 +1100
 
-elementary-seed-meta (1.83) hardy; urgency=low
+elementary-meta (1.83) hardy; urgency=low
 
   * Refreshed dependencies
   * Added tcpd to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
@@ -2156,7 +2172,7 @@ elementary-seed-meta (1.83) hardy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 03 Dec 2007 17:46:40 +0000
 
-elementary-seed-meta (1.82) hardy; urgency=low
+elementary-meta (1.82) hardy; urgency=low
 
   * Refreshed dependencies
   * Added gimp-gnomevfs to desktop-recommends-i386, desktop-recommends-
@@ -2174,7 +2190,7 @@ elementary-seed-meta (1.82) hardy; urgency=low
 
  -- Sebastien Bacher <seb128@canonical.com>  Tue, 27 Nov 2007 21:16:08 +0100
 
-elementary-seed-meta (1.81) hardy; urgency=low
+elementary-meta (1.81) hardy; urgency=low
 
   * Refreshed dependencies
   * Added gstreamer0.10-pulseaudio to desktop-lpia
@@ -2183,7 +2199,7 @@ elementary-seed-meta (1.81) hardy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 22 Nov 2007 18:37:57 +0100
 
-elementary-seed-meta (1.80) hardy; urgency=low
+elementary-meta (1.80) hardy; urgency=low
 
   * update.cfg:
     - Switch to Hardy.
@@ -2253,7 +2269,7 @@ elementary-seed-meta (1.80) hardy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 21 Nov 2007 16:24:44 +0100
 
-elementary-seed-meta (1.79) gutsy; urgency=low
+elementary-meta (1.79) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added marquee-plugins to mobile-sparc
@@ -2262,7 +2278,7 @@ elementary-seed-meta (1.79) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 15 Oct 2007 21:43:52 +0200
 
-elementary-seed-meta (1.78) gutsy; urgency=low
+elementary-meta (1.78) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added galculator to mobile-i386, mobile-amd64, mobile-powerpc,
@@ -2273,7 +2289,7 @@ elementary-seed-meta (1.78) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 15 Oct 2007 09:24:20 +0200
 
-elementary-seed-meta (1.77) gutsy; urgency=low
+elementary-meta (1.77) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added contacts-snapshot to mobile-hppa
@@ -2283,7 +2299,7 @@ elementary-seed-meta (1.77) gutsy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 09 Oct 2007 06:43:18 +0100
 
-elementary-seed-meta (1.76) gutsy; urgency=low
+elementary-meta (1.76) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added app-install-data-commercial to desktop-recommends-i386,
@@ -2301,7 +2317,7 @@ elementary-seed-meta (1.76) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Sat, 06 Oct 2007 13:08:09 +0200
 
-elementary-seed-meta (1.75) gutsy; urgency=low
+elementary-meta (1.75) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added foobillard to mobile-recommends-i386, mobile-recommends-amd64,
@@ -2335,7 +2351,7 @@ elementary-seed-meta (1.75) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 01 Oct 2007 09:49:04 +0200
 
-elementary-seed-meta (1.74) gutsy; urgency=low
+elementary-meta (1.74) gutsy; urgency=low
 
   * Refreshed dependencies
   * Removed openoffice.org-evolution from desktop-recommends-i386,
@@ -2343,7 +2359,7 @@ elementary-seed-meta (1.74) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 25 Sep 2007 12:00:31 +0200
 
-elementary-seed-meta (1.73) gutsy; urgency=low
+elementary-meta (1.73) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added openoffice.org-calc to desktop-recommends-i386, desktop-
@@ -2365,7 +2381,7 @@ elementary-seed-meta (1.73) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 25 Sep 2007 08:36:52 +0200
 
-elementary-seed-meta (1.72) gutsy; urgency=low
+elementary-meta (1.72) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added pidgin to desktop-recommends-hppa
@@ -2375,7 +2391,7 @@ elementary-seed-meta (1.72) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 21 Sep 2007 08:47:15 +0200
 
-elementary-seed-meta (1.71) gutsy; urgency=low
+elementary-meta (1.71) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added apparmor-utils to standard-recommends-hppa
@@ -2426,7 +2442,7 @@ elementary-seed-meta (1.71) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 20 Sep 2007 11:30:56 +0200
 
-elementary-seed-meta (1.70) gutsy; urgency=low
+elementary-meta (1.70) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added bluez-gnome to desktop-recommends-i386, desktop-recommends-
@@ -2450,7 +2466,7 @@ elementary-seed-meta (1.70) gutsy; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Fri, 07 Sep 2007 11:30:44 +0200
 
-elementary-seed-meta (1.69) gutsy; urgency=low
+elementary-meta (1.69) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added bluetooth to mobile-i386, mobile-amd64, mobile-powerpc,
@@ -2475,7 +2491,7 @@ elementary-seed-meta (1.69) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Thu, 30 Aug 2007 21:40:15 +0200
 
-elementary-seed-meta (1.68) gutsy; urgency=low
+elementary-meta (1.68) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added matchbox-keyboard to mobile-i386, mobile-amd64, mobile-
@@ -2485,7 +2501,7 @@ elementary-seed-meta (1.68) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Wed, 29 Aug 2007 16:05:06 +0200
 
-elementary-seed-meta (1.67) gutsy; urgency=low
+elementary-meta (1.67) gutsy; urgency=low
 
   * Fix up ubuntu-mobile-dev dependencies.
   * Refreshed dependencies
@@ -2494,7 +2510,7 @@ elementary-seed-meta (1.67) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 27 Aug 2007 22:49:59 +0200
 
-elementary-seed-meta (1.66) gutsy; urgency=low
+elementary-meta (1.66) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added cups-pdf to desktop-recommends-lpia
@@ -2516,7 +2532,7 @@ elementary-seed-meta (1.66) gutsy; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 23 Aug 2007 12:27:24 +0200
 
-elementary-seed-meta (1.65) gutsy; urgency=low
+elementary-meta (1.65) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added cups-pdf to desktop-recommends-i386, desktop-recommends-amd64,
@@ -2527,7 +2543,7 @@ elementary-seed-meta (1.65) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 20 Aug 2007 18:13:33 +0200
 
-elementary-seed-meta (1.64) gutsy; urgency=low
+elementary-meta (1.64) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added acpi to desktop-lpia
@@ -2605,7 +2621,7 @@ elementary-seed-meta (1.64) gutsy; urgency=low
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 17 Aug 2007 11:57:35 +0100
 
-elementary-seed-meta (1.63) gutsy; urgency=low
+elementary-meta (1.63) gutsy; urgency=low
 
   * Add ubuntu-mobile-dev package.
   * Refreshed dependencies
@@ -2643,7 +2659,7 @@ elementary-seed-meta (1.63) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Wed, 15 Aug 2007 12:27:41 +0200
 
-elementary-seed-meta (1.62) gutsy; urgency=low
+elementary-meta (1.62) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added bc to desktop-lpia
@@ -2660,7 +2676,7 @@ elementary-seed-meta (1.62) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 13 Aug 2007 09:47:59 +0200
 
-elementary-seed-meta (1.61) gutsy; urgency=low
+elementary-meta (1.61) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added avahi-autoipd to desktop-recommends-lpia
@@ -2720,7 +2736,7 @@ elementary-seed-meta (1.61) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 10 Aug 2007 11:28:06 +0200
 
-elementary-seed-meta (1.60) gutsy; urgency=low
+elementary-meta (1.60) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added adduser to minimal-lpia
@@ -2844,7 +2860,7 @@ elementary-seed-meta (1.60) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 07 Aug 2007 18:19:31 +0200
 
-elementary-seed-meta (1.59) gutsy; urgency=low
+elementary-meta (1.59) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added alacarte to desktop-lpia
@@ -3019,7 +3035,7 @@ elementary-seed-meta (1.59) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 06 Aug 2007 10:42:45 +0200
 
-elementary-seed-meta (1.58) gutsy; urgency=low
+elementary-meta (1.58) gutsy; urgency=low
 
   * Updated lpia lists; add lpia packages which are not yet built:
     - minimal-lpia: Copy of minimal-i386, minus libc6-i686.
@@ -3027,13 +3043,13 @@ elementary-seed-meta (1.58) gutsy; urgency=low
 
  -- Matthias Klose <doko@ubuntu.com>  Tue, 31 Jul 2007 15:04:08 +0000
 
-elementary-seed-meta (1.57) gutsy; urgency=low
+elementary-meta (1.57) gutsy; urgency=low
 
   * Generate packages for lpia.
 
  -- Matthias Klose <doko@ubuntu.com>  Tue, 31 Jul 2007 11:51:58 +0000
 
-elementary-seed-meta (1.56) gutsy; urgency=low
+elementary-meta (1.56) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added avahi-autoipd to desktop-recommends-i386, desktop-recommends-
@@ -3063,7 +3079,7 @@ elementary-seed-meta (1.56) gutsy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 30 Jul 2007 13:53:57 +0200
 
-elementary-seed-meta (1.55) gutsy; urgency=low
+elementary-meta (1.55) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added apparmor-utils to standard-recommends-i386, standard-
@@ -3072,13 +3088,13 @@ elementary-seed-meta (1.55) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 20 Jul 2007 16:56:47 +0200
 
-elementary-seed-meta (1.54) gutsy; urgency=low
+elementary-meta (1.54) gutsy; urgency=low
 
   * Include a copy of GPLv2 (LP: #80513).
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 19 Jul 2007 22:08:15 +0100
 
-elementary-seed-meta (1.53) gutsy; urgency=low
+elementary-meta (1.53) gutsy; urgency=low
 
   * Refreshed dependencies
   * Removed esound from desktop-i386, desktop-amd64, desktop-powerpc,
@@ -3086,7 +3102,7 @@ elementary-seed-meta (1.53) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 19 Jul 2007 17:29:02 +0200
 
-elementary-seed-meta (1.52) gutsy; urgency=low
+elementary-meta (1.52) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added ubufox to desktop-recommends-i386, desktop-recommends-amd64,
@@ -3095,14 +3111,14 @@ elementary-seed-meta (1.52) gutsy; urgency=low
 
  -- Alexander Sack <asac@ubuntu.com>  Fri, 06 Jul 2007 11:42:56 +0200
 
-elementary-seed-meta (1.51) gutsy; urgency=low
+elementary-meta (1.51) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added hildon-desktop to mobile-amd64, mobile-ia64, mobile-sparc
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Mon, 02 Jul 2007 08:55:02 +0200
 
-elementary-seed-meta (1.50) gutsy; urgency=low
+elementary-meta (1.50) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added compiz to desktop-recommends-i386, desktop-recommends-amd64,
@@ -3119,14 +3135,14 @@ elementary-seed-meta (1.50) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 26 Jun 2007 13:14:18 +0200
 
-elementary-seed-meta (1.49) gutsy; urgency=low
+elementary-meta (1.49) gutsy; urgency=low
 
   * Revert build-dependency change; germinate 0.28 is required for update
     and is in the archive now.
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 26 Jun 2007 10:10:25 +0100
 
-elementary-seed-meta (1.48) gutsy; urgency=low
+elementary-meta (1.48) gutsy; urgency=low
 
   * set build-depends of germinate to 0.27 to workaround the fact that
     0.28 is currently not available (and germinate is not really
@@ -3135,14 +3151,14 @@ elementary-seed-meta (1.48) gutsy; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 25 Jun 2007 18:09:46 +0200
 
-elementary-seed-meta (1.47ubuntu2) gutsy; urgency=low
+elementary-meta (1.47ubuntu2) gutsy; urgency=low
 
   * Revert the ubuntu-minimal changes introduced by my last
     upload 
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 25 Jun 2007 17:33:03 +0200
 
-elementary-seed-meta (1.47ubuntu1) gutsy; urgency=low
+elementary-meta (1.47ubuntu1) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added bogofilter to desktop-recommends-i386, desktop-recommends-
@@ -3226,7 +3242,7 @@ elementary-seed-meta (1.47ubuntu1) gutsy; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Mon, 25 Jun 2007 15:40:17 +0200
 
-elementary-seed-meta (1.47) gutsy; urgency=low
+elementary-meta (1.47) gutsy; urgency=low
 
   * Build ubuntu-minimal from required and minimal seeds (requires germinate
     0.28 to update).
@@ -3234,7 +3250,7 @@ elementary-seed-meta (1.47) gutsy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat, 23 Jun 2007 21:28:29 +0100
 
-elementary-seed-meta (1.46) gutsy; urgency=low
+elementary-meta (1.46) gutsy; urgency=low
 
   * Refreshed dependencies
   * Added dbus-x11 to mobile-amd64, mobile-powerpc, mobile-ia64, mobile-
@@ -3252,7 +3268,7 @@ elementary-seed-meta (1.46) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 22 Jun 2007 15:54:48 +0200
 
-elementary-seed-meta (1.45) gutsy; urgency=low
+elementary-meta (1.45) gutsy; urgency=low
 
   * Add new mobile seed (included universe during update to get through a
     first run)
@@ -3263,7 +3279,7 @@ elementary-seed-meta (1.45) gutsy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 12 Jun 2007 20:40:37 +0100
 
-elementary-seed-meta (1.44) gutsy; urgency=low
+elementary-meta (1.44) gutsy; urgency=low
 
   * update.cfg: feisty -> gutsy.
   * Refreshed dependencies
@@ -3298,7 +3314,7 @@ elementary-seed-meta (1.44) gutsy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 25 May 2007 13:28:12 +0200
 
-elementary-seed-meta (1.43) feisty; urgency=low
+elementary-meta (1.43) feisty; urgency=low
 
   * Refreshed dependencies
   * Added gtk2-engines-pixbuf to desktop-i386, desktop-amd64, desktop-
@@ -3306,7 +3322,7 @@ elementary-seed-meta (1.43) feisty; urgency=low
 
  -- Sebastien Bacher <seb128@canonical.com>  Wed,  4 Apr 2007 13:53:54 +0200
 
-elementary-seed-meta (1.42) feisty; urgency=low
+elementary-meta (1.42) feisty; urgency=low
 
   * Refreshed dependencies
   * Added dcraw to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -3314,13 +3330,13 @@ elementary-seed-meta (1.42) feisty; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Tue,  3 Apr 2007 13:42:34 +0200
 
-elementary-seed-meta (1.41) feisty; urgency=low
+elementary-meta (1.41) feisty; urgency=low
 
   * changed Section to metapackages (LP#82876)
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Tue,  3 Apr 2007 13:16:42 +0200
 
-elementary-seed-meta (1.40) feisty; urgency=low
+elementary-meta (1.40) feisty; urgency=low
 
   * Refreshed dependencies
   * Added gnome-user-guide to desktop-recommends-i386, desktop-
@@ -3337,7 +3353,7 @@ elementary-seed-meta (1.40) feisty; urgency=low
 
  -- Paul Sladen <sladen@ubuntu.com>  Fri, 30 Mar 2007 19:55:29 +0100
 
-elementary-seed-meta (1.39) feisty; urgency=low
+elementary-meta (1.39) feisty; urgency=low
 
   * Refreshed dependencies
   * Added command-not-found to standard-recommends-i386, standard-
@@ -3350,7 +3366,7 @@ elementary-seed-meta (1.39) feisty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Fri, 16 Mar 2007 12:07:47 +0100
 
-elementary-seed-meta (1.38) feisty; urgency=low
+elementary-meta (1.38) feisty; urgency=low
 
   * Refreshed dependencies
   * Added restricted-manager to desktop-recommends-i386, desktop-
@@ -3359,7 +3375,7 @@ elementary-seed-meta (1.38) feisty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 15 Mar 2007 14:33:17 +0100
 
-elementary-seed-meta (1.37) feisty; urgency=low
+elementary-meta (1.37) feisty; urgency=low
 
   * Refreshed dependencies
   * Added apport-gtk to desktop-recommends-i386, desktop-recommends-
@@ -3496,7 +3512,7 @@ elementary-seed-meta (1.37) feisty; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu,  8 Mar 2007 21:58:46 -0800
 
-elementary-seed-meta (1.36) feisty; urgency=low
+elementary-meta (1.36) feisty; urgency=low
 
   * Refreshed dependencies
   * Added desktop-effects to desktop-i386, desktop-amd64, desktop-
@@ -3504,7 +3520,7 @@ elementary-seed-meta (1.36) feisty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 27 Feb 2007 12:31:57 +0100
 
-elementary-seed-meta (1.35) feisty; urgency=low
+elementary-meta (1.35) feisty; urgency=low
 
   * Refreshed dependencies
   * Added espeak to desktop-recommends-i386, desktop-recommends-amd64,
@@ -3521,7 +3537,7 @@ elementary-seed-meta (1.35) feisty; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed, 14 Feb 2007 10:32:00 +0100
 
-elementary-seed-meta (1.34) feisty; urgency=low
+elementary-meta (1.34) feisty; urgency=low
 
   * Refreshed dependencies
   * Added avahi-autoipd to desktop-ia64
@@ -3535,7 +3551,7 @@ elementary-seed-meta (1.34) feisty; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue, 30 Jan 2007 15:07:22 +0100
 
-elementary-seed-meta (1.33) feisty; urgency=low
+elementary-meta (1.33) feisty; urgency=low
 
   * Refreshed dependencies
   * Added avahi-autoipd to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -3544,7 +3560,7 @@ elementary-seed-meta (1.33) feisty; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu,  7 Dec 2006 11:22:08 +0100
 
-elementary-seed-meta (1.32) feisty; urgency=low
+elementary-meta (1.32) feisty; urgency=low
 
   * Refreshed dependencies
   * Removed gnome-btdownload from desktop-i386, desktop-amd64, desktop-
@@ -3552,7 +3568,7 @@ elementary-seed-meta (1.32) feisty; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue,  5 Dec 2006 14:23:52 +0000
 
-elementary-seed-meta (1.31) feisty; urgency=low
+elementary-meta (1.31) feisty; urgency=low
 
   * update.cfg:
     - edgy -> feisty.
@@ -3564,7 +3580,7 @@ elementary-seed-meta (1.31) feisty; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Mon,  4 Dec 2006 16:09:24 +0100
 
-elementary-seed-meta (1.30) edgy; urgency=low
+elementary-meta (1.30) edgy; urgency=low
 
   * Refreshed dependencies
   * Added linux-headers-generic to desktop-recommends-i386
@@ -3575,19 +3591,19 @@ elementary-seed-meta (1.30) edgy; urgency=low
 
  -- Matthias Klose <doko@ubuntu.com>  Thu, 19 Oct 2006 18:47:41 +0200
 
-elementary-seed-meta (1.29) edgy; urgency=low
+elementary-meta (1.29) edgy; urgency=low
 
   * Fix build failure due to removal of ubuntu-live.
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 12 Oct 2006 10:26:13 +0100
 
-elementary-seed-meta (1.28) edgy; urgency=low
+elementary-meta (1.28) edgy; urgency=low
 
   * Remove ubuntu-live metapackage; this is done using tasks now.
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 12 Oct 2006 03:31:50 +0100
 
-elementary-seed-meta (1.27) edgy; urgency=low
+elementary-meta (1.27) edgy; urgency=low
 
   * Refreshed dependencies
   * Added avahi-daemon to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -3595,7 +3611,7 @@ elementary-seed-meta (1.27) edgy; urgency=low
 
  -- Sebastien Bacher <seb128@canonical.com>  Thu,  5 Oct 2006 20:37:01 +0200
 
-elementary-seed-meta (1.26) edgy; urgency=low
+elementary-meta (1.26) edgy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-games to desktop-recommends-i386, desktop-recommends-
@@ -3619,7 +3635,7 @@ elementary-seed-meta (1.26) edgy; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu,  5 Oct 2006 14:07:36 +0200
 
-elementary-seed-meta (1.25) edgy; urgency=low
+elementary-meta (1.25) edgy; urgency=low
 
   * Refreshed dependencies
   * Added upstart-logd to minimal-i386, minimal-amd64, minimal-powerpc,
@@ -3627,7 +3643,7 @@ elementary-seed-meta (1.25) edgy; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Wed, 20 Sep 2006 05:48:13 +0100
 
-elementary-seed-meta (1.24) edgy; urgency=low
+elementary-meta (1.24) edgy; urgency=low
 
   * Refreshed dependencies
   * Added usplash-theme-ubuntu to desktop-i386, desktop-amd64, desktop-
@@ -3635,7 +3651,7 @@ elementary-seed-meta (1.24) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 12 Sep 2006 14:47:00 +0100
 
-elementary-seed-meta (1.23) edgy; urgency=low
+elementary-meta (1.23) edgy; urgency=low
 
   * Revert update.cfg changes so that it works for people other than
     Michael. :-)
@@ -3805,7 +3821,7 @@ elementary-seed-meta (1.23) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat,  9 Sep 2006 18:48:49 +0100
 
-elementary-seed-meta (1.22) edgy; urgency=low
+elementary-meta (1.22) edgy; urgency=low
 
   * Refreshed dependencies
   * Changed Depends to Recommends linux-headers-686 from desktop-i386
@@ -3820,7 +3836,7 @@ elementary-seed-meta (1.22) edgy; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Fri,  8 Sep 2006 21:59:40 +0200
 
-elementary-seed-meta (1.21) edgy; urgency=low
+elementary-meta (1.21) edgy; urgency=low
 
   * prepared for recommends support, once the seeds change to use them
     the next ./update will do the right thing
@@ -3828,7 +3844,7 @@ elementary-seed-meta (1.21) edgy; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Thu,  7 Sep 2006 18:29:50 +0200
 
-elementary-seed-meta (1.20) edgy; urgency=low
+elementary-meta (1.20) edgy; urgency=low
 
   * Refreshed dependencies
   * Added system-services to minimal-i386, minimal-amd64, minimal-
@@ -3838,7 +3854,7 @@ elementary-seed-meta (1.20) edgy; urgency=low
 
  -- Scott James Remnant <scott@netsplit.com>  Thu,  7 Sep 2006 01:56:57 +0100
 
-elementary-seed-meta (1.19) edgy; urgency=low
+elementary-meta (1.19) edgy; urgency=low
 
   * Refreshed dependencies
   * Added upstart-compat-sysv to minimal-i386, minimal-amd64, minimal-
@@ -3850,7 +3866,7 @@ elementary-seed-meta (1.19) edgy; urgency=low
 
  -- Scott James Remnant <scott@netsplit.com>  Mon,  4 Sep 2006 20:57:22 +0100
 
-elementary-seed-meta (1.18) edgy; urgency=low
+elementary-meta (1.18) edgy; urgency=low
 
   * Refreshed dependencies
   * Added vim-tiny to minimal-i386, minimal-amd64, minimal-powerpc,
@@ -3860,7 +3876,7 @@ elementary-seed-meta (1.18) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 30 Aug 2006 11:30:26 +0100
 
-elementary-seed-meta (1.17) edgy; urgency=low
+elementary-meta (1.17) edgy; urgency=low
 
   * Refreshed dependencies
   * Removed hpijs-ppds from desktop-i386, desktop-amd64, desktop-
@@ -3870,7 +3886,7 @@ elementary-seed-meta (1.17) edgy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue, 29 Aug 2006 14:41:49 +0200
 
-elementary-seed-meta (1.16) edgy; urgency=low
+elementary-meta (1.16) edgy; urgency=low
 
   * Refreshed dependencies
   * Removed foomatic-db-gutenprint from desktop-i386, desktop-amd64,
@@ -3932,7 +3948,7 @@ elementary-seed-meta (1.16) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 28 Aug 2006 01:52:40 +0100
 
-elementary-seed-meta (1.15) edgy; urgency=low
+elementary-meta (1.15) edgy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-orca to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -3940,7 +3956,7 @@ elementary-seed-meta (1.15) edgy; urgency=low
 
  -- Adam Conrad <adconrad@ubuntu.com>  Fri, 25 Aug 2006 04:17:25 +1000
 
-elementary-seed-meta (1.14) edgy; urgency=low
+elementary-meta (1.14) edgy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-orca to desktop-ia64, desktop-hppa
@@ -3953,7 +3969,7 @@ elementary-seed-meta (1.14) edgy; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Thu, 24 Aug 2006 17:12:41 +0200
 
-elementary-seed-meta (1.13) edgy; urgency=low
+elementary-meta (1.13) edgy; urgency=low
 
   * Refreshed dependencies
   * Added totem-mozilla to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -3963,7 +3979,7 @@ elementary-seed-meta (1.13) edgy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 14 Aug 2006 08:51:19 +0200
 
-elementary-seed-meta (1.12) edgy; urgency=low
+elementary-meta (1.12) edgy; urgency=low
 
   * Refreshed dependencies
   * Added mktemp to minimal-i386, minimal-amd64, minimal-powerpc,
@@ -3977,7 +3993,7 @@ elementary-seed-meta (1.12) edgy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 11 Aug 2006 11:41:34 -0700
 
-elementary-seed-meta (1.11) edgy; urgency=low
+elementary-meta (1.11) edgy; urgency=low
 
   * Update package description for ubuntu-minimal to reflect its goals more
     clearly
@@ -3985,7 +4001,7 @@ elementary-seed-meta (1.11) edgy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Sun, 30 Jul 2006 14:20:53 -0700
 
-elementary-seed-meta (1.10) edgy; urgency=low
+elementary-meta (1.10) edgy; urgency=low
 
   * Refreshed dependencies
   * Added tomboy to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -4006,7 +4022,7 @@ elementary-seed-meta (1.10) edgy; urgency=low
 
  -- Sebastian Dröge <slomo@ubuntu.com>  Sat, 29 Jul 2006 16:08:29 +0200
 
-elementary-seed-meta (1.9) edgy; urgency=low
+elementary-meta (1.9) edgy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-keyring-manager to desktop-i386, desktop-amd64, desktop-
@@ -4016,7 +4032,7 @@ elementary-seed-meta (1.9) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 27 Jul 2006 14:38:10 +0100
 
-elementary-seed-meta (1.8) edgy; urgency=low
+elementary-meta (1.8) edgy; urgency=low
 
   * Refreshed dependencies
   * Added gtk2-engines to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -4034,7 +4050,7 @@ elementary-seed-meta (1.8) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 26 Jul 2006 14:42:36 +0100
 
-elementary-seed-meta (1.7) edgy; urgency=low
+elementary-meta (1.7) edgy; urgency=low
 
   * Refreshed dependencies
   * Added hfsplus to live-powerpc
@@ -4047,14 +4063,14 @@ elementary-seed-meta (1.7) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 17 Jul 2006 16:54:39 +0100
 
-elementary-seed-meta (1.6) edgy; urgency=low
+elementary-meta (1.6) edgy; urgency=low
 
   * Refreshed dependencies
   * Removed pbbuttonsd from desktop-i386
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 13 Jul 2006 13:31:14 +0100
 
-elementary-seed-meta (1.5) edgy; urgency=low
+elementary-meta (1.5) edgy; urgency=low
 
   * Refreshed dependencies
   * Added hpijs-ppds to desktop-ia64, desktop-hppa
@@ -4065,7 +4081,7 @@ elementary-seed-meta (1.5) edgy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed, 12 Jul 2006 16:22:00 -0700
 
-elementary-seed-meta (1.4) edgy; urgency=low
+elementary-meta (1.4) edgy; urgency=low
 
   * Refreshed dependencies
   * Added hpijs-ppds to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -4076,14 +4092,14 @@ elementary-seed-meta (1.4) edgy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 11 Jul 2006 15:38:05 -0700
 
-elementary-seed-meta (1.3) edgy; urgency=low
+elementary-meta (1.3) edgy; urgency=low
 
   * Clarify descriptions to encourage users to keep the metapackages installed
     for proper upgrades
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  5 Jul 2006 10:01:34 -0700
 
-elementary-seed-meta (1.2) edgy; urgency=low
+elementary-meta (1.2) edgy; urgency=low
 
   * Refreshed dependencies
   * Added dash to minimal-i386, minimal-amd64, minimal-powerpc, minimal-
@@ -4093,7 +4109,7 @@ elementary-seed-meta (1.2) edgy; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Wed, 28 Jun 2006 23:01:08 +0100
 
-elementary-seed-meta (1.1) edgy; urgency=low
+elementary-meta (1.1) edgy; urgency=low
 
   * Refreshed dependencies
   * Added ltrace to standard-ia64
@@ -4271,7 +4287,7 @@ elementary-seed-meta (1.1) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 21 Jun 2006 11:49:15 +0100
 
-elementary-seed-meta (1.0) edgy; urgency=low
+elementary-meta (1.0) edgy; urgency=low
 
   * Add update.cfg for new germinate-update-metapackage (Build-Depends:
     germinate (>= 0.16)). Replace update with a trivial wrapper. We now pull
@@ -4296,7 +4312,7 @@ elementary-seed-meta (1.0) edgy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri,  9 Jun 2006 13:10:48 +0100
 
-elementary-seed-meta (0.119) dapper; urgency=low
+elementary-meta (0.119) dapper; urgency=low
 
   * Refreshed dependencies
   * Removed language-pack-ja from live-ia64
@@ -4310,7 +4326,7 @@ elementary-seed-meta (0.119) dapper; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Tue, 30 May 2006 09:30:45 +0200
 
-elementary-seed-meta (0.118) dapper; urgency=low
+elementary-meta (0.118) dapper; urgency=low
 
   * Refreshed dependencies
   * Added language-pack-ar to live-amd64, live-powerpc, live-ia64, live-
@@ -4393,7 +4409,7 @@ elementary-seed-meta (0.118) dapper; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Mon, 29 May 2006 14:53:04 +0200
 
-elementary-seed-meta (0.117) dapper; urgency=low
+elementary-meta (0.117) dapper; urgency=low
 
   * Refreshed dependencies
   * Added landscape-client to desktop-i386, desktop-amd64, desktop-
@@ -4401,7 +4417,7 @@ elementary-seed-meta (0.117) dapper; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 26 May 2006 16:28:53 -0700
 
-elementary-seed-meta (0.116) dapper; urgency=low
+elementary-meta (0.116) dapper; urgency=low
 
   * Refreshed dependencies
   * Removed language-pack-ar from live-amd64, live-powerpc, live-ia64,
@@ -4513,7 +4529,7 @@ elementary-seed-meta (0.116) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 23 May 2006 15:41:57 +0100
 
-elementary-seed-meta (0.115) dapper; urgency=low
+elementary-meta (0.115) dapper; urgency=low
 
   * Refreshed dependencies
   * Added language-pack-ar to live-i386, live-amd64, live-ia64, live-
@@ -4613,7 +4629,7 @@ elementary-seed-meta (0.115) dapper; urgency=low
 
  -- Scott James Remnant <scott@netsplit.com>  Mon, 22 May 2006 18:58:26 +0100
 
-elementary-seed-meta (0.114) dapper; urgency=low
+elementary-meta (0.114) dapper; urgency=low
 
   * Refreshed dependencies
   * Added tango-icon-theme-common to desktop-i386, desktop-amd64,
@@ -4621,7 +4637,7 @@ elementary-seed-meta (0.114) dapper; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Sun, 14 May 2006 18:59:09 +0200
 
-elementary-seed-meta (0.113) dapper; urgency=low
+elementary-meta (0.113) dapper; urgency=low
 
   * Refreshed dependencies
   * Added usplash to desktop-hppa
@@ -4630,7 +4646,7 @@ elementary-seed-meta (0.113) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 May 2006 22:46:24 +0100
 
-elementary-seed-meta (0.112) dapper; urgency=low
+elementary-meta (0.112) dapper; urgency=low
 
   * Refreshed dependencies
   * Added ubuntu-artwork to desktop-i386, desktop-amd64, desktop-
@@ -4642,7 +4658,7 @@ elementary-seed-meta (0.112) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue,  9 May 2006 12:09:54 +0100
 
-elementary-seed-meta (0.111) dapper; urgency=low
+elementary-meta (0.111) dapper; urgency=low
 
   * Refreshed dependencies
   * Added ubiquity-frontend-gtk to live-ia64, live-hppa
@@ -4651,7 +4667,7 @@ elementary-seed-meta (0.111) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 26 Apr 2006 19:27:34 +0100
 
-elementary-seed-meta (0.110) dapper; urgency=low
+elementary-meta (0.110) dapper; urgency=low
 
   * Refreshed dependencies
   * Added ubiquity-ubuntu-artwork to live-i386, live-amd64, live-
@@ -4673,7 +4689,7 @@ elementary-seed-meta (0.110) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 21 Apr 2006 18:48:28 +0100
 
-elementary-seed-meta (0.109) dapper; urgency=low
+elementary-meta (0.109) dapper; urgency=low
 
   * Refreshed dependencies
   * Removed dasher from desktop-i386, desktop-amd64, desktop-powerpc,
@@ -4681,7 +4697,7 @@ elementary-seed-meta (0.109) dapper; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Wed, 19 Apr 2006 10:21:13 +0200
 
-elementary-seed-meta (0.108) dapper; urgency=low
+elementary-meta (0.108) dapper; urgency=low
 
   * Refreshed dependencies
   * Added libc6-sparc64v to minimal-sparc
@@ -4700,7 +4716,7 @@ elementary-seed-meta (0.108) dapper; urgency=low
 
  -- Daniel Holbach <daniel.holbach@ubuntu.com>  Tue, 18 Apr 2006 09:51:41 +0200
 
-elementary-seed-meta (0.107) dapper; urgency=low
+elementary-meta (0.107) dapper; urgency=low
 
   * Refreshed dependencies
   * Added gok to desktop-i386, desktop-amd64, desktop-powerpc, desktop-
@@ -4723,7 +4739,7 @@ elementary-seed-meta (0.107) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 12 Apr 2006 14:56:03 +0100
 
-elementary-seed-meta (0.106) dapper; urgency=low
+elementary-meta (0.106) dapper; urgency=low
 
   * Refreshed dependencies
   * Removed network-manager-gnome from live-i386, live-amd64, live-
@@ -4733,7 +4749,7 @@ elementary-seed-meta (0.106) dapper; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Thu,  6 Apr 2006 11:47:05 +0100
 
-elementary-seed-meta (0.105) dapper; urgency=low
+elementary-meta (0.105) dapper; urgency=low
 
   * Refreshed dependencies
   * Added wpasupplicant to standard-i386, standard-amd64, standard-
@@ -4741,7 +4757,7 @@ elementary-seed-meta (0.105) dapper; urgency=low
 
  -- Scott James Remnant <scott@ubuntu.com>  Thu, 30 Mar 2006 16:09:53 +0100
 
-elementary-seed-meta (0.104) dapper; urgency=low
+elementary-meta (0.104) dapper; urgency=low
 
   * Refreshed dependencies
   * Added network-manager-gnome to live-i386, live-amd64, live-powerpc,
@@ -4751,7 +4767,7 @@ elementary-seed-meta (0.104) dapper; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Wed, 29 Mar 2006 10:41:23 +0200
 
-elementary-seed-meta (0.103) dapper; urgency=low
+elementary-meta (0.103) dapper; urgency=low
 
   * Refreshed dependencies
   * Added language-pack-bn to live-i386, live-amd64, live-sparc, live-
@@ -4788,7 +4804,7 @@ elementary-seed-meta (0.103) dapper; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Thu, 23 Mar 2006 14:07:17 +0100
 
-elementary-seed-meta (0.102) dapper; urgency=low
+elementary-meta (0.102) dapper; urgency=low
 
   * Refreshed dependencies
   * Added scim-gtk2-immodule to desktop-i386, desktop-amd64, desktop-
@@ -4802,7 +4818,7 @@ elementary-seed-meta (0.102) dapper; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Wed,  8 Mar 2006 15:20:35 +0100
 
-elementary-seed-meta (0.101) dapper; urgency=low
+elementary-meta (0.101) dapper; urgency=low
 
   * Refreshed dependencies
   * Added ltrace to standard-sparc
@@ -4837,7 +4853,7 @@ elementary-seed-meta (0.101) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sun,  5 Mar 2006 10:05:28 +0000
 
-elementary-seed-meta (0.100) dapper; urgency=low
+elementary-meta (0.100) dapper; urgency=low
 
   * Refreshed dependencies
   * Added debconf-i18n to minimal-i386, minimal-amd64, minimal-powerpc,
@@ -4853,7 +4869,7 @@ elementary-seed-meta (0.100) dapper; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Wed,  1 Mar 2006 09:45:56 +0100
 
-elementary-seed-meta (0.99) dapper; urgency=low
+elementary-meta (0.99) dapper; urgency=low
 
   * Refreshed dependencies
   * Added example-content to desktop-i386, desktop-amd64, desktop-
@@ -4872,7 +4888,7 @@ elementary-seed-meta (0.99) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 24 Feb 2006 13:16:01 +0000
 
-elementary-seed-meta (0.98) dapper; urgency=low
+elementary-meta (0.98) dapper; urgency=low
 
   * Refreshed dependencies
   * Added inputattach to standard-i386, standard-amd64, standard-
@@ -4882,7 +4898,7 @@ elementary-seed-meta (0.98) dapper; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Sun, 12 Feb 2006 17:20:14 +0100
 
-elementary-seed-meta (0.97) dapper; urgency=low
+elementary-meta (0.97) dapper; urgency=low
 
   * Refreshed dependencies
   * Added gstreamer0.10-plugins-base-apps to desktop-i386, desktop-
@@ -4940,7 +4956,7 @@ elementary-seed-meta (0.97) dapper; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Thu,  9 Feb 2006 18:06:06 +0100
 
-elementary-seed-meta (0.96) dapper; urgency=low
+elementary-meta (0.96) dapper; urgency=low
 
   * Refreshed dependencies
   * Added ekiga to desktop-sparc
@@ -4951,7 +4967,7 @@ elementary-seed-meta (0.96) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri,  3 Feb 2006 12:14:21 +0000
 
-elementary-seed-meta (0.95) dapper; urgency=low
+elementary-meta (0.95) dapper; urgency=low
 
   * Refreshed dependencies
   * Added gnome-power-manager to desktop-i386, desktop-amd64, desktop-
@@ -4961,7 +4977,7 @@ elementary-seed-meta (0.95) dapper; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu,  2 Feb 2006 09:15:18 -0800
 
-elementary-seed-meta (0.94) dapper; urgency=low
+elementary-meta (0.94) dapper; urgency=low
 
   * Refreshed dependencies
   * Added ekiga to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -4985,7 +5001,7 @@ elementary-seed-meta (0.94) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 30 Jan 2006 12:16:33 +0000
 
-elementary-seed-meta (0.93) dapper; urgency=low
+elementary-meta (0.93) dapper; urgency=low
 
   * Refreshed dependencies
   * Added espresso-ubuntu-artwork to live-i386, live-amd64, live-
@@ -4999,7 +5015,7 @@ elementary-seed-meta (0.93) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat, 28 Jan 2006 16:02:06 +0000
 
-elementary-seed-meta (0.92) dapper; urgency=low
+elementary-meta (0.92) dapper; urgency=low
 
   * Refreshed dependencies
   * Added espresso-grub to live-i386, live-amd64
@@ -5011,7 +5027,7 @@ elementary-seed-meta (0.92) dapper; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Tue, 24 Jan 2006 14:07:05 +0100
 
-elementary-seed-meta (0.91) dapper; urgency=low
+elementary-meta (0.91) dapper; urgency=low
 
   * Refreshed dependencies
   * Added cupsys-driver-gutenprint to desktop-ia64
@@ -5023,7 +5039,7 @@ elementary-seed-meta (0.91) dapper; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue, 17 Jan 2006 11:48:55 +0100
 
-elementary-seed-meta (0.90) dapper; urgency=low
+elementary-meta (0.90) dapper; urgency=low
 
   * Refreshed dependencies
   * Added cupsys-driver-gutenprint to desktop-i386, desktop-amd64,
@@ -5042,7 +5058,7 @@ elementary-seed-meta (0.90) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 11 Jan 2006 19:00:43 +0000
 
-elementary-seed-meta (0.89) dapper; urgency=low
+elementary-meta (0.89) dapper; urgency=low
 
   * Refreshed dependencies
   * Added xchat-gnome to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5059,7 +5075,7 @@ elementary-seed-meta (0.89) dapper; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Mon,  9 Jan 2006 16:54:45 -0800
 
-elementary-seed-meta (0.88) dapper; urgency=low
+elementary-meta (0.88) dapper; urgency=low
 
   * Refreshed dependencies
   * Added notify-daemon to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5070,7 +5086,7 @@ elementary-seed-meta (0.88) dapper; urgency=low
 
  -- Michael Vogt <michael.vogt@ubuntu.com>  Wed,  4 Jan 2006 16:49:18 +0100
 
-elementary-seed-meta (0.87) dapper; urgency=low
+elementary-meta (0.87) dapper; urgency=low
 
   * Refreshed dependencies
   * Added user-setup to live-i386, live-amd64, live-powerpc, live-ia64,
@@ -5078,7 +5094,7 @@ elementary-seed-meta (0.87) dapper; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue,  3 Jan 2006 14:12:09 +0100
 
-elementary-seed-meta (0.86) dapper; urgency=low
+elementary-meta (0.86) dapper; urgency=low
 
   * Policy version 3.6.2.
 
@@ -5088,7 +5104,7 @@ elementary-seed-meta (0.86) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon,  2 Jan 2006 00:23:36 +0000
 
-elementary-seed-meta (0.85) dapper; urgency=low
+elementary-meta (0.85) dapper; urgency=low
 
   * Refreshed dependencies
   * Added partman to live-i386, live-amd64, live-powerpc, live-ia64,
@@ -5108,7 +5124,7 @@ elementary-seed-meta (0.85) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 20 Dec 2005 23:22:40 +0000
 
-elementary-seed-meta (0.84) dapper; urgency=low
+elementary-meta (0.84) dapper; urgency=low
 
   * Refreshed dependencies
   * Removed hotplug from minimal-i386, minimal-amd64, minimal-powerpc,
@@ -5116,7 +5132,7 @@ elementary-seed-meta (0.84) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 30 Nov 2005 19:25:13 +0000
 
-elementary-seed-meta (0.83) dapper; urgency=low
+elementary-meta (0.83) dapper; urgency=low
 
   * Refreshed dependencies
   * Added hplip to desktop-hppa
@@ -5129,7 +5145,7 @@ elementary-seed-meta (0.83) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 25 Nov 2005 10:43:39 +0000
 
-elementary-seed-meta (0.82) dapper; urgency=low
+elementary-meta (0.82) dapper; urgency=low
 
   * Refreshed dependencies
   * Added hplip to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5139,7 +5155,7 @@ elementary-seed-meta (0.82) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 17 Nov 2005 10:36:17 +0000
 
-elementary-seed-meta (0.81) dapper; urgency=low
+elementary-meta (0.81) dapper; urgency=low
 
   * Rewrite large parts of update to use germinate modules for Packages,
     Sources, and seed parsing; this allows us to take advantage of new seed
@@ -5158,7 +5174,7 @@ elementary-seed-meta (0.81) dapper; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 16 Nov 2005 16:05:00 +0000
 
-elementary-seed-meta (0.80) breezy; urgency=low
+elementary-meta (0.80) breezy; urgency=low
 
   * Refreshed dependencies
   * Removed python-opengl from desktop-i386, desktop-amd64, desktop-
@@ -5166,7 +5182,7 @@ elementary-seed-meta (0.80) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue, 11 Oct 2005 15:20:53 +0100
 
-elementary-seed-meta (0.79) breezy; urgency=low
+elementary-meta (0.79) breezy; urgency=low
 
   * Refreshed dependencies
   * Removed python2.4-samba from desktop-i386, desktop-amd64, desktop-
@@ -5176,7 +5192,7 @@ elementary-seed-meta (0.79) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 10 Oct 2005 15:28:32 +0100
 
-elementary-seed-meta (0.78) breezy; urgency=low
+elementary-meta (0.78) breezy; urgency=low
 
   * Refreshed dependencies
   * Removed language-pack-ar from live-ia64
@@ -5248,7 +5264,7 @@ elementary-seed-meta (0.78) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu,  6 Oct 2005 20:48:07 +0100
 
-elementary-seed-meta (0.77) breezy; urgency=low
+elementary-meta (0.77) breezy; urgency=low
 
   * Refreshed dependencies
   * Added gstreamer0.8-dvd to desktop-hppa
@@ -5284,14 +5300,14 @@ elementary-seed-meta (0.77) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon,  3 Oct 2005 23:31:29 +0100
 
-elementary-seed-meta (0.76) breezy; urgency=low
+elementary-meta (0.76) breezy; urgency=low
 
   * Refreshed dependencies
   * Added powermanagement-interface to desktop-powerpc, desktop-ia64
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 23 Sep 2005 10:07:45 +0100
 
-elementary-seed-meta (0.75) breezy; urgency=low
+elementary-meta (0.75) breezy; urgency=low
 
   * Refreshed dependencies
   * Added libxp6 to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5301,7 +5317,7 @@ elementary-seed-meta (0.75) breezy; urgency=low
 
  -- Adam Conrad <adconrad@ubuntu.com>  Fri, 23 Sep 2005 16:49:21 +1000
 
-elementary-seed-meta (0.74) breezy; urgency=low
+elementary-meta (0.74) breezy; urgency=low
 
   * Refreshed dependencies
   * Added evolution-plugins to desktop-i386, desktop-amd64, desktop-
@@ -5315,7 +5331,7 @@ elementary-seed-meta (0.74) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 20 Sep 2005 14:17:01 -0700
 
-elementary-seed-meta (0.73) breezy; urgency=low
+elementary-meta (0.73) breezy; urgency=low
 
   * Refreshed dependencies
   * Added w3m to standard-hppa
@@ -5330,7 +5346,7 @@ elementary-seed-meta (0.73) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 16 Sep 2005 12:46:14 -0700
 
-elementary-seed-meta (0.72) breezy; urgency=low
+elementary-meta (0.72) breezy; urgency=low
 
   * Refreshed dependencies
   * Added ttf-mgopen to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5344,7 +5360,7 @@ elementary-seed-meta (0.72) breezy; urgency=low
 
  -- Tollef Fog Heen <tfheen@ubuntu.com>  Tue, 13 Sep 2005 20:48:53 +0200
 
-elementary-seed-meta (0.71) breezy; urgency=low
+elementary-meta (0.71) breezy; urgency=low
 
   * Refreshed dependencies
   * Added ubuntu-docs to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5352,7 +5368,7 @@ elementary-seed-meta (0.71) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri,  9 Sep 2005 14:50:36 +0100
 
-elementary-seed-meta (0.70) breezy; urgency=low
+elementary-meta (0.70) breezy; urgency=low
 
   * Refreshed dependencies
   * Added gparted to live-sparc
@@ -5360,7 +5376,7 @@ elementary-seed-meta (0.70) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  7 Sep 2005 19:45:58 -0700
 
-elementary-seed-meta (0.69) breezy; urgency=low
+elementary-meta (0.69) breezy; urgency=low
 
   * Refreshed dependencies
   * Removed python-numarray from desktop-i386, desktop-amd64, desktop-
@@ -5368,7 +5384,7 @@ elementary-seed-meta (0.69) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue,  6 Sep 2005 20:38:10 +0100
 
-elementary-seed-meta (0.68) breezy; urgency=low
+elementary-meta (0.68) breezy; urgency=low
 
   * Refreshed dependencies
   * Added nautilus to desktop-hppa
@@ -5388,7 +5404,7 @@ elementary-seed-meta (0.68) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Mon,  5 Sep 2005 09:53:45 -0700
 
-elementary-seed-meta (0.67) breezy; urgency=low
+elementary-meta (0.67) breezy; urgency=low
 
   * Refreshed dependencies
   * Added bogofilter to desktop-hppa
@@ -5402,7 +5418,7 @@ elementary-seed-meta (0.67) breezy; urgency=low
 
  -- Oliver Grawert <ogra@ubuntu.com>  Tue, 23 Aug 2005 11:01:23 +0200
 
-elementary-seed-meta (0.66) breezy; urgency=low
+elementary-meta (0.66) breezy; urgency=low
 
   * Refreshed dependencies
   * Added libgl1-mesa to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5417,7 +5433,7 @@ elementary-seed-meta (0.66) breezy; urgency=low
 
  -- Adam Conrad <adconrad@ubuntu.com>  Sun, 21 Aug 2005 05:53:27 +1000
 
-elementary-seed-meta (0.65) breezy; urgency=low
+elementary-meta (0.65) breezy; urgency=low
 
   * Refreshed dependencies
   * Removed language-pack-bn from live-i386, live-amd64, live-sparc,
@@ -5441,7 +5457,7 @@ elementary-seed-meta (0.65) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 18 Aug 2005 12:23:32 -0700
 
-elementary-seed-meta (0.64) breezy; urgency=low
+elementary-meta (0.64) breezy; urgency=low
 
   * Refreshed dependencies
   * Added language-pack-gnome-sr to live-ia64
@@ -5522,7 +5538,7 @@ elementary-seed-meta (0.64) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 18 Aug 2005 11:04:07 -0700
 
-elementary-seed-meta (0.63) breezy; urgency=low
+elementary-meta (0.63) breezy; urgency=low
 
   * Refreshed dependencies
   * Added gparted to live-i386, live-amd64, live-powerpc, live-ia64,
@@ -5534,7 +5550,7 @@ elementary-seed-meta (0.63) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 16 Aug 2005 00:13:15 -0700
 
-elementary-seed-meta (0.62) breezy; urgency=low
+elementary-meta (0.62) breezy; urgency=low
 
   * Refreshed dependencies
   * Added notification-daemon to desktop-i386, desktop-amd64, desktop-
@@ -5543,7 +5559,7 @@ elementary-seed-meta (0.62) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Fri, 12 Aug 2005 10:15:06 -0700
 
-elementary-seed-meta (0.61) breezy; urgency=low
+elementary-meta (0.61) breezy; urgency=low
 
   * Remove bluez-bcm203x manually from release arches; it's uninstallable
   * Refreshed dependencies
@@ -5552,7 +5568,7 @@ elementary-seed-meta (0.61) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 11 Aug 2005 16:53:26 -0700
 
-elementary-seed-meta (0.60) breezy; urgency=low
+elementary-meta (0.60) breezy; urgency=low
 
   * Cosmetic changes to update script output
   * Refreshed dependencies
@@ -5567,7 +5583,7 @@ elementary-seed-meta (0.60) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 11 Aug 2005 15:29:53 -0700
 
-elementary-seed-meta (0.59) breezy; urgency=low
+elementary-meta (0.59) breezy; urgency=low
 
   * Refreshed dependencies
   * Added bluez-pcmcia-support to desktop-i386, desktop-powerpc,
@@ -5585,7 +5601,7 @@ elementary-seed-meta (0.59) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 11 Aug 2005 04:31:46 +0100
 
-elementary-seed-meta (0.58) breezy; urgency=low
+elementary-meta (0.58) breezy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-games to desktop-hppa
@@ -5595,7 +5611,7 @@ elementary-seed-meta (0.58) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Mon,  8 Aug 2005 14:34:30 -0700
 
-elementary-seed-meta (0.57) breezy; urgency=low
+elementary-meta (0.57) breezy; urgency=low
 
   * Refreshed dependencies
   * Added cupsys-bsd to desktop-hppa
@@ -5625,7 +5641,7 @@ elementary-seed-meta (0.57) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sun,  7 Aug 2005 19:04:22 +0100
 
-elementary-seed-meta (0.56) breezy; urgency=low
+elementary-meta (0.56) breezy; urgency=low
 
   * Refreshed dependencies
   * Added strace to minimal-hppa
@@ -5635,7 +5651,7 @@ elementary-seed-meta (0.56) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 15 Jul 2005 15:48:28 +0100
 
-elementary-seed-meta (0.55) breezy; urgency=low
+elementary-meta (0.55) breezy; urgency=low
 
   * Refreshed dependencies
   * Added vino to desktop-hppa
@@ -5684,7 +5700,7 @@ elementary-seed-meta (0.55) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Thu, 14 Jul 2005 15:05:20 +0100
 
-elementary-seed-meta (0.54) breezy; urgency=low
+elementary-meta (0.54) breezy; urgency=low
 
   * Refreshed dependencies
   * Added gnome-menus to desktop-hppa
@@ -5742,13 +5758,13 @@ elementary-seed-meta (0.54) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue,  5 Jul 2005 14:14:36 +0100
 
-elementary-seed-meta (0.53) breezy; urgency=low
+elementary-meta (0.53) breezy; urgency=low
 
   * Add hppa, no dependency changes.
 
  -- LaMont Jones <lamont@ubuntu.com>  Thu, 30 Jun 2005 23:25:54 -0600
 
-elementary-seed-meta (0.52) breezy; urgency=low
+elementary-meta (0.52) breezy; urgency=low
 
   * Refreshed dependencies
   * Added xterm to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -5757,7 +5773,7 @@ elementary-seed-meta (0.52) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sat, 25 Jun 2005 08:41:54 +0100
 
-elementary-seed-meta (0.51) breezy; urgency=low
+elementary-meta (0.51) breezy; urgency=low
 
   * Refreshed dependencies
   * Added libesd-alsa0 to desktop-amd64
@@ -5768,7 +5784,7 @@ elementary-seed-meta (0.51) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Fri, 17 Jun 2005 20:18:06 +0100
 
-elementary-seed-meta (0.50) breezy; urgency=low
+elementary-meta (0.50) breezy; urgency=low
 
   * Refreshed dependencies
   * Added libpt-plugins-v4l2 to desktop-i386, desktop-amd64, desktop-
@@ -5778,7 +5794,7 @@ elementary-seed-meta (0.50) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue,  7 Jun 2005 11:36:54 -0700
 
-elementary-seed-meta (0.49) breezy; urgency=low
+elementary-meta (0.49) breezy; urgency=low
 
   * Refreshed dependencies
   * Added readahead-list to desktop-i386, desktop-amd64, desktop-
@@ -5788,7 +5804,7 @@ elementary-seed-meta (0.49) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Mon, 23 May 2005 19:39:33 -0700
 
-elementary-seed-meta (0.48) breezy; urgency=low
+elementary-meta (0.48) breezy; urgency=low
 
   * Refreshed dependencies
   * Added libesd-alsa0 to desktop-i386, desktop-powerpc, desktop-ia64,
@@ -5804,7 +5820,7 @@ elementary-seed-meta (0.48) breezy; urgency=low
 
  -- Martin Pitt <martin.pitt@ubuntu.com>  Thu, 19 May 2005 14:04:25 +0200
 
-elementary-seed-meta (0.47) breezy; urgency=low
+elementary-meta (0.47) breezy; urgency=low
 
   * Refreshed dependencies
   * Added evince to desktop-sparc
@@ -5813,7 +5829,7 @@ elementary-seed-meta (0.47) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 12 May 2005 14:50:24 -0700
 
-elementary-seed-meta (0.46) breezy; urgency=low
+elementary-meta (0.46) breezy; urgency=low
 
   * Switched ia64 and sparc to http://ports.ubuntu.com/ubuntu-ports/.
 
@@ -5824,7 +5840,7 @@ elementary-seed-meta (0.46) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed,  4 May 2005 12:19:19 +0100
 
-elementary-seed-meta (0.45) breezy; urgency=low
+elementary-meta (0.45) breezy; urgency=low
 
   * Rename ubuntu-base to ubuntu-minimal, and add a new ubuntu-standard
     metapackage, to allow for smaller installations. Add a new transitional
@@ -6029,7 +6045,7 @@ elementary-seed-meta (0.45) breezy; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Tue,  3 May 2005 11:29:12 +0100
 
-elementary-seed-meta (0.44) breezy; urgency=low
+elementary-meta (0.44) breezy; urgency=low
 
   * Improve error handling for debootstrap in update script
   * Disable ia64 temporarily, until ports.ubuntu.com becomes available
@@ -6047,7 +6063,7 @@ elementary-seed-meta (0.44) breezy; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 14 Apr 2005 08:06:01 -0700
 
-elementary-seed-meta (0.43) hoary; urgency=low
+elementary-meta (0.43) hoary; urgency=low
 
   * Refreshed dependencies
   * Added memtest86+ to base-amd64
@@ -6055,7 +6071,7 @@ elementary-seed-meta (0.43) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Sat,  2 Apr 2005 00:41:30 -0800
 
-elementary-seed-meta (0.42) hoary; urgency=low
+elementary-meta (0.42) hoary; urgency=low
 
   * Refreshed dependencies
   * Added strace to base-sparc
@@ -6065,7 +6081,7 @@ elementary-seed-meta (0.42) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed, 30 Mar 2005 16:22:35 -0800
 
-elementary-seed-meta (0.41) hoary; urgency=low
+elementary-meta (0.41) hoary; urgency=low
 
   * Refreshed dependencies
   * Added libgnome2-perl to desktop-i386, desktop-amd64, desktop-
@@ -6074,7 +6090,7 @@ elementary-seed-meta (0.41) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 17 Mar 2005 10:41:03 -0800
 
-elementary-seed-meta (0.40) hoary; urgency=low
+elementary-meta (0.40) hoary; urgency=low
 
   * Refreshed dependencies
   * Added openoffice.org to desktop-ia64
@@ -6114,7 +6130,7 @@ elementary-seed-meta (0.40) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 15 Mar 2005 23:13:43 -0800
 
-elementary-seed-meta (0.39) hoary; urgency=low
+elementary-meta (0.39) hoary; urgency=low
 
   * Refreshed dependencies
   * Added gtk2-engines-clearlooks to desktop-i386, desktop-amd64,
@@ -6122,7 +6138,7 @@ elementary-seed-meta (0.39) hoary; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed,  9 Mar 2005 12:11:55 +0000
 
-elementary-seed-meta (0.38) hoary; urgency=low
+elementary-meta (0.38) hoary; urgency=low
 
   * Refreshed dependencies
   * Added esound to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -6134,7 +6150,7 @@ elementary-seed-meta (0.38) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue,  8 Mar 2005 17:46:39 -0800
 
-elementary-seed-meta (0.37) hoary; urgency=low
+elementary-meta (0.37) hoary; urgency=low
 
   * Refreshed dependencies
   * Added language-pack-ar to live-i386, live-amd64, live-powerpc, live-
@@ -6165,7 +6181,7 @@ elementary-seed-meta (0.37) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Fri,  4 Mar 2005 09:34:27 -0800
 
-elementary-seed-meta (0.36) hoary; urgency=low
+elementary-meta (0.36) hoary; urgency=low
 
   * Refreshed dependencies
   * Added nautilus-sendto to desktop-i386, desktop-amd64, desktop-
@@ -6173,7 +6189,7 @@ elementary-seed-meta (0.36) hoary; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed,  2 Mar 2005 09:44:09 +0000
 
-elementary-seed-meta (0.35) hoary; urgency=low
+elementary-meta (0.35) hoary; urgency=low
 
   * Refreshed dependencies
   * Removed apmd from desktop-amd64, desktop-powerpc, desktop-ia64,
@@ -6181,14 +6197,14 @@ elementary-seed-meta (0.35) hoary; urgency=low
 
  -- Thom May <thom@ubuntu.com>  Mon, 28 Feb 2005 23:37:44 +0000
 
-elementary-seed-meta (0.34) hoary; urgency=low
+elementary-meta (0.34) hoary; urgency=low
 
   * Add more detailed information about the purpose of these packages to
     the package descriptions
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Sun, 27 Feb 2005 16:42:43 -0800
 
-elementary-seed-meta (0.33) hoary; urgency=low
+elementary-meta (0.33) hoary; urgency=low
 
   * Refreshed dependencies
   * Added gnome-app-install to desktop-i386, desktop-amd64, desktop-
@@ -6198,7 +6214,7 @@ elementary-seed-meta (0.33) hoary; urgency=low
 
  -- Thom May <thom@ubuntu.com>  Fri, 25 Feb 2005 18:52:34 +0000
 
-elementary-seed-meta (0.32) hoary; urgency=low
+elementary-meta (0.32) hoary; urgency=low
 
   * Refreshed dependencies
   * Added pcmcia-cs to live-i386, live-amd64, live-powerpc, live-ia64,
@@ -6206,7 +6222,7 @@ elementary-seed-meta (0.32) hoary; urgency=low
 
  -- LaMont Jones <lamont@ubuntu.com>  Fri, 18 Feb 2005 20:34:56 -0700
 
-elementary-seed-meta (0.31) hoary; urgency=low
+elementary-meta (0.31) hoary; urgency=low
 
   * Refreshed dependencies
   * Added language-pack-en to live-i386, live-amd64, live-powerpc, live-
@@ -6214,7 +6230,7 @@ elementary-seed-meta (0.31) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue, 15 Feb 2005 14:23:12 -0800
 
-elementary-seed-meta (0.30) hoary; urgency=low
+elementary-meta (0.30) hoary; urgency=low
 
   * Refreshed dependencies
   * Added polypaudio-alsa to desktop-i386, desktop-amd64, desktop-
@@ -6226,13 +6242,13 @@ elementary-seed-meta (0.30) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Mon, 14 Feb 2005 21:37:01 -0800
 
-elementary-seed-meta (0.29) hoary; urgency=low
+elementary-meta (0.29) hoary; urgency=low
 
   * Fix ubuntu-live depends generation
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Thu, 10 Feb 2005 17:09:05 -0800
 
-elementary-seed-meta (0.28) hoary; urgency=low
+elementary-meta (0.28) hoary; urgency=low
 
   * Refreshed dependencies
   * Added language-support-en to live-i386, live-amd64, live-powerpc,
@@ -6260,14 +6276,14 @@ elementary-seed-meta (0.28) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  9 Feb 2005 13:11:31 -0800
 
-elementary-seed-meta (0.27) hoary; urgency=low
+elementary-meta (0.27) hoary; urgency=low
 
   * Add ubuntu-live metapackage
   * Update maintainer field
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  9 Feb 2005 12:44:40 -0800
 
-elementary-seed-meta (0.26) hoary; urgency=low
+elementary-meta (0.26) hoary; urgency=low
 
   * Refreshed dependencies
     - English language stuff is now handled by language packs
@@ -6288,20 +6304,20 @@ elementary-seed-meta (0.26) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  9 Feb 2005 12:42:15 -0800
 
-elementary-seed-meta (0.25) hoary; urgency=low
+elementary-meta (0.25) hoary; urgency=low
 
   * Refreshed dependencies
   * Added gnome-btdownload to desktop-ia64
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  2 Feb 2005 09:18:34 -0800
 
-elementary-seed-meta (0.24) hoary; urgency=low
+elementary-meta (0.24) hoary; urgency=low
 
   * Add sparc support (sparc is in a separate archive)
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Wed,  2 Feb 2005 09:15:53 -0800
 
-elementary-seed-meta (0.23) hoary; urgency=low
+elementary-meta (0.23) hoary; urgency=low
 
   * Refreshed dependencies
   * Added gs-esp to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -6309,7 +6325,7 @@ elementary-seed-meta (0.23) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@ubuntu.com>  Tue,  1 Feb 2005 20:21:04 -0800
 
-elementary-seed-meta (0.22) hoary; urgency=low
+elementary-meta (0.22) hoary; urgency=low
 
   * Refreshed dependencies
   * Added totem to desktop-i386, desktop-amd64, desktop-powerpc,
@@ -6319,13 +6335,13 @@ elementary-seed-meta (0.22) hoary; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Sun, 30 Jan 2005 18:34:59 +0000
 
-elementary-seed-meta (0.21) hoary; urgency=low
+elementary-meta (0.21) hoary; urgency=low
 
   * Fail if {base,desktop}-$ARCH are not in the source.
 
  -- LaMont Jones <lamont@debian.org>  Fri, 21 Jan 2005 21:38:56 -0700
 
-elementary-seed-meta (0.20) hoary; urgency=low
+elementary-meta (0.20) hoary; urgency=low
 
   * Refreshed dependencies
   * Added lsb-release to base-i386, base-amd64, base-powerpc, base-ia64
@@ -6336,7 +6352,7 @@ elementary-seed-meta (0.20) hoary; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 19 Jan 2005 18:37:07 +0000
 
-elementary-seed-meta (0.19) hoary; urgency=low
+elementary-meta (0.19) hoary; urgency=low
 
   * Refreshed dependencies
   * Added python2.4-libxslt1 to desktop-i386, desktop-amd64, desktop-
@@ -6352,7 +6368,7 @@ elementary-seed-meta (0.19) hoary; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Wed, 19 Jan 2005 11:02:11 +0000
 
-elementary-seed-meta (0.18) hoary; urgency=low
+elementary-meta (0.18) hoary; urgency=low
 
   * Improve update to handle architecture-specific seed entries.
   * Refreshed dependencies
@@ -6361,13 +6377,13 @@ elementary-seed-meta (0.18) hoary; urgency=low
 
  -- Colin Watson <cjwatson@ubuntu.com>  Mon, 17 Jan 2005 12:48:31 +0000
 
-elementary-seed-meta (0.17) hoary; urgency=low
+elementary-meta (0.17) hoary; urgency=low
 
   * Added ia64 support.  No changes to dependencies.
 
  -- LaMont Jones <lamont@canonical.com>  Sun,  9 Jan 2005 14:45:39 -0700
 
-elementary-seed-meta (0.16) hoary; urgency=low
+elementary-meta (0.16) hoary; urgency=low
 
   * Refreshed dependencies
   * Added update-notifier to desktop-i386, desktop-amd64, desktop-
@@ -6375,13 +6391,13 @@ elementary-seed-meta (0.16) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Sun,  9 Jan 2005 13:24:58 -0800
 
-elementary-seed-meta (0.15) hoary; urgency=low
+elementary-meta (0.15) hoary; urgency=low
 
   * Restore update script improvements which were inadvertently dropped
 
  -- Matt Zimmerman <mdz@canonical.com>  Sun,  9 Jan 2005 02:26:01 -0800
 
-elementary-seed-meta (0.14) hoary; urgency=low
+elementary-meta (0.14) hoary; urgency=low
 
   * Refreshed dependencies
   * Added ethtool to base-i386
@@ -6404,7 +6420,7 @@ elementary-seed-meta (0.14) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Sat,  8 Jan 2005 12:24:12 -0800
 
-elementary-seed-meta (0.13) hoary; urgency=low
+elementary-meta (0.13) hoary; urgency=low
 
   * Refreshed dependencies
   * Added ubuntu-keyring to base-i386
@@ -6416,7 +6432,7 @@ elementary-seed-meta (0.13) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@canonical.com>  Mon,  3 Jan 2005 02:42:42 -0800
 
-elementary-seed-meta (0.12) hoary; urgency=low
+elementary-meta (0.12) hoary; urgency=low
 
   * Improve update script a bit, to condense changelog for common cases (only
     one changelog entry per package, rather than one per
@@ -6425,7 +6441,7 @@ elementary-seed-meta (0.12) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Thu, 23 Dec 2004 15:02:26 -0800
 
-elementary-seed-meta (0.11) hoary; urgency=low
+elementary-meta (0.11) hoary; urgency=low
 
   * Sort package names in output of update script.
 
@@ -6475,7 +6491,7 @@ elementary-seed-meta (0.11) hoary; urgency=low
 
  -- Colin Watson <cjwatson@canonical.com>  Wed, 22 Dec 2004 14:14:49 +0000
 
-elementary-seed-meta (0.10) hoary; urgency=low
+elementary-meta (0.10) hoary; urgency=low
 
   * Fix update script to notice the last package output by debootstrap, by
     splitting on any whitespace rather than just ' '; the trailing newline
@@ -6501,7 +6517,7 @@ elementary-seed-meta (0.10) hoary; urgency=low
 
  -- Colin Watson <cjwatson@canonical.com>  Sun, 19 Dec 2004 10:38:37 +0000
 
-elementary-seed-meta (0.9) hoary; urgency=low
+elementary-meta (0.9) hoary; urgency=low
 
   * Improve diagnostics in update script
   * Refreshed from seed lists and package archive
@@ -6520,7 +6536,7 @@ elementary-seed-meta (0.9) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Tue, 30 Nov 2004 13:01:32 -0800
 
-elementary-seed-meta (0.8) hoary; urgency=low
+elementary-meta (0.8) hoary; urgency=low
 
   * Refreshed from seed lists and package archive
   * Removed trashapplet from desktop-i386
@@ -6532,7 +6548,7 @@ elementary-seed-meta (0.8) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@canonical.com>  Mon, 15 Nov 2004 21:28:16 -0800
 
-elementary-seed-meta (0.7) hoary; urgency=low
+elementary-meta (0.7) hoary; urgency=low
 
   * Refreshed from seed lists and package archive
   * Removed modutils from base-i386
@@ -6541,14 +6557,14 @@ elementary-seed-meta (0.7) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Tue,  9 Nov 2004 14:19:47 -0800
 
-elementary-seed-meta (0.6) hoary; urgency=low
+elementary-meta (0.6) hoary; urgency=low
 
   * Remove xfree86-driver-synaptics.
   * Add xorg-driver-synaptics.
 
  -- Fabio M. Di Nitto <fabbione@fabbione.net>  Thu, 04 Nov 2004 08:07:17 +0100
 
-elementary-seed-meta (0.5) hoary; urgency=low
+elementary-meta (0.5) hoary; urgency=low
 
   * Updated 'update' script to use the new location for germinate output
   * Refreshed from seed lists and package archive
@@ -6564,14 +6580,14 @@ elementary-seed-meta (0.5) hoary; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Tue,  2 Nov 2004 16:21:58 -0800
 
-elementary-seed-meta (0.4) hoary; urgency=low
+elementary-meta (0.4) hoary; urgency=low
 
   * Add notes to the package descriptions which indicate that it is OK to
     remove them
 
  -- Matt Zimmerman <mdz@canonical.com>  Wed, 27 Oct 2004 22:55:30 -0700
 
-elementary-seed-meta (0.3) warty; urgency=low
+elementary-meta (0.3) warty; urgency=low
 
   * Refreshed from seed lists and package archive
   * Removed vim from desktop-i386
@@ -6580,7 +6596,7 @@ elementary-seed-meta (0.3) warty; urgency=low
 
  -- Matt Zimmerman <mdz@debian.org>  Fri,  8 Oct 2004 13:47:20 -0700
 
-elementary-seed-meta (0.2) warty; urgency=low
+elementary-meta (0.2) warty; urgency=low
 
   * Initial release
 

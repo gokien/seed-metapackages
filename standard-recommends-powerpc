@@ -4,6 +4,9 @@ bash-completion
 command-not-found
 friendly-recovery
 irqbalance
+lshw
+lsof
+ltrace
 manpages
 nano
 ntfs-3g
@@ -15,5 +18,6 @@ ppp
 pppconfig
 pppoeconf
 preload
+strace
 update-manager-core
 uuid-runtime

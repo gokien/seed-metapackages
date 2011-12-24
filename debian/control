@@ -1,4 +1,4 @@
-Source: elementary-seed-meta
+Source: elementary-meta
 Section: metapackages
 Priority: optional
 Maintainer: Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>
@@ -26,7 +26,7 @@ Package: elementary-standard
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: The elementary OS CLI-only components
+Description: elementary OS CLI-only components
  This package depends on most of non-GUI packages from elementary OS.
  .
  It is used to ensure proper upgrades, so it is recommended that it not be
@@ -36,8 +36,18 @@ Package: elementary-desktop
 Architecture: any
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: The elementary desktop system
+Description: elementary OS desktop
  This package installs the complete elementary desktop.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
+Package: elementary-artwork
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: elementary artwork
+ This package installs the acclaimed elementary desktop artwork.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
