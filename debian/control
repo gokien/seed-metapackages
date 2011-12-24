@@ -64,3 +64,15 @@ Description: Modern and modular DE-independent desktop shell
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
 
+Package: pantheon
+Architecture: any
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Description: Pantheon Desktop Environment
+ Pantheon is a desktop environment based on GNOME with a strong focus on user
+ experience. It's developed by elementary project.
+ .
+ This package installs all Pantheon apps that are shipped with the OS by default.
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
+
