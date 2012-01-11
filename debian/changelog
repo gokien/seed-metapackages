@@ -1,3 +1,11 @@
+elementary-meta (1.247) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added pantheon-lightdm-theme to pantheon-recommends
+  * Removed pantheon-lightdm-theme from desktop-recommends
+
+ -- Серёга <germinator@germinator-VirtualBox>  Wed, 11 Jan 2012 14:22:00 +0000
+
 elementary-meta (1.246) precise; urgency=low
 
   * Refreshed dependencies
