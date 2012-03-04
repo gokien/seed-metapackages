@@ -70,7 +70,7 @@ libpam-gnome-keyring
 libsdl1.2debian
 libwmf0.2-7-gtk
 lightdm
-linux-headers-generic
+linux-headers-generic-pae
 make
 min12xxw
 mousetweaks
@@ -89,13 +89,12 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 pxljr
-qt-at-spi
+python-aptdaemon.pkcompat
 rarian-compat
 rastertosag-gdi
 seahorse
 shotwell
 simple-scan
-sni-qt
 software-center
 software-properties-gtk
 speech-dispatcher
@@ -108,6 +107,7 @@ ttf-droid
 ttf-unifont
 update-manager
 update-notifier
+whoopsie
 xcursor-themes
 xdg-user-dirs-gtk
 xdg-utils
