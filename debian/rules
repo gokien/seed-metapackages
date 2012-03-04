@@ -1,6 +1,4 @@
 #! /usr/bin/make -f
 
-./update
-
 %:
 	dh --with germinate $@
