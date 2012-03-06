@@ -24,7 +24,6 @@ fonts-liberation
 fonts-nanum
 gcalctool
 gcc
-gedit
 ginn
 gnome-bluetooth
 gnome-codec-install
@@ -93,6 +92,7 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 python-aptdaemon.pkcompat
 rarian-compat
+scratch
 seahorse
 shotwell
 simple-scan
