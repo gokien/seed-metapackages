@@ -24,6 +24,7 @@ ntpdate
 passwd
 procps
 python
+resolvconf
 sudo
 tzdata
 ubuntu-keyring

@@ -1,3 +1,30 @@
+elementary-meta (1.250) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added printer-driver-c2esp to desktop-recommends
+  * Added printer-driver-foo2zjs to desktop-recommends
+  * Added printer-driver-min12xxw to desktop-recommends
+  * Added printer-driver-pnm2ppa to desktop
+  * Added printer-driver-ptouch to desktop-recommends
+  * Added printer-driver-pxljr to desktop-recommends
+  * Added printer-driver-sag-gdi to desktop-recommends
+  * Added printer-driver-splix to desktop-recommends
+  * Added resolvconf to minimal
+  * Removed bc from desktop
+  * Removed c2esp from desktop-recommends
+  * Removed dc from desktop
+  * Removed foo2zjs from desktop-recommends
+  * Removed genisoimage from desktop
+  * Removed min12xxw from desktop-recommends
+  * Removed pnm2ppa from desktop
+  * Removed ptouch-driver from desktop-recommends
+  * Removed pxljr from desktop-recommends
+  * Removed rastertosag-gdi from desktop-recommends
+  * Removed splix from desktop-recommends
+  * Removed x-ttcidfont-conf from desktop
+
+ -- Precise Beta <precise@precise-beta-portable>  Tue, 06 Mar 2012 19:49:35 +0400
+
 elementary-meta (1.249) precise; urgency=low
 
   * Refreshed dependencies
