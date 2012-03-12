@@ -28,7 +28,6 @@ ginn
 gnome-bluetooth
 gnome-codec-install
 gnome-font-viewer
-gnome-media
 gnome-menus
 gnome-orca
 gnome-power-manager
@@ -92,7 +91,6 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 python-aptdaemon.pkcompat
 rarian-compat
-scratch
 seahorse
 shotwell
 simple-scan

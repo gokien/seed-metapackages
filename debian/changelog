@@ -1,3 +1,14 @@
+elementary-meta (1.253) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added dexter-contacts to pantheon-recommends
+  * Added scratch to pantheon-recommends
+  * Removed dexter from pantheon-recommends
+  * Removed gnome-media from desktop-recommends
+  * Removed scratch from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Mon, 12 Mar 2012 04:56:03 +0400
+
 elementary-meta (1.252) precise; urgency=low
 
   * Refreshed dependencies
