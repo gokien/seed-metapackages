@@ -1,3 +1,13 @@
+elementary-meta (1.254) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added fonts-droid to desktop-recommends
+  * Added fonts-open-sans to desktop-recommends
+  * Added fonts-raleway to desktop-recommends
+  * Removed ttf-droid from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Tue, 13 Mar 2012 20:16:10 +0400
+
 elementary-meta (1.253) precise; urgency=low
 
   * Refreshed dependencies

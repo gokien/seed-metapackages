@@ -20,8 +20,11 @@ evince
 example-content
 exe-wrapper
 file-roller
+fonts-droid
 fonts-liberation
 fonts-nanum
+fonts-open-sans
+fonts-raleway
 gcalctool
 gcc
 ginn
@@ -101,7 +104,6 @@ ssh-askpass-gnome
 system-config-printer-gnome
 telepathy-idle
 totem
-ttf-droid
 ttf-unifont
 update-manager
 update-notifier
