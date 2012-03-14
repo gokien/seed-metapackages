@@ -1,3 +1,10 @@
+elementary-meta (1.255) precise; urgency=low
+
+  * Refreshed dependencies
+  * Removed seahorse from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 14 Mar 2012 21:33:43 +0400
+
 elementary-meta (1.254) precise; urgency=low
 
   * Refreshed dependencies

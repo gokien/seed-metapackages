@@ -94,7 +94,6 @@ pulseaudio-module-gconf
 pulseaudio-module-x11
 python-aptdaemon.pkcompat
 rarian-compat
-seahorse
 shotwell
 simple-scan
 software-center
