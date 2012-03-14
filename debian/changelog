@@ -1,3 +1,15 @@
+elementary-meta (1.256) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added activity-log-manager-control-center to desktop-recommends
+  * Added cmap-adobe-japan2 to desktop-recommends
+  * Added libproxy1-plugin-gsettings to desktop-recommends
+  * Added libproxy1-plugin-networkmanager to desktop-recommends
+  * Removed exe-wrapper from desktop-recommends
+  * Removed gucharmap from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 14 Mar 2012 23:18:43 +0400
+
 elementary-meta (1.255) precise; urgency=low
 
   * Refreshed dependencies
