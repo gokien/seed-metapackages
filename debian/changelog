@@ -1,3 +1,10 @@
+elementary-meta (1.257) precise; urgency=low
+
+  * Refreshed dependencies
+  * Removed example-content from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Fri, 16 Mar 2012 22:26:45 +0400
+
 elementary-meta (1.256) precise; urgency=low
 
   * Refreshed dependencies
