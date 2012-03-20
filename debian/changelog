@@ -1,3 +1,10 @@
+elementary-meta (1.258) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added elementaryos-report-problem-dockitem to desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Tue, 20 Mar 2012 13:56:46 +0400
+
 elementary-meta (1.257) precise; urgency=low
 
   * Refreshed dependencies
