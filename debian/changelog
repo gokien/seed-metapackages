@@ -1,3 +1,18 @@
+elementary-meta (1.260) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added elementary-os-prerelease to desktop-recommends
+  * Added switchboard to desktop-recommends
+  * Added switchboard-plug-wallpaper to desktop-recommends
+  * Removed elementaryos-report-problem-dockitem from desktop-recommends
+  * Removed lingo from pantheon-recommends
+  * Removed pantheon-wallpaper from pantheon-shell
+  * Removed switchboard from pantheon-recommends
+  * Removed wallpaper-plug from pantheon-recommends
+  * Moved plank to pantheon-shell-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Fri, 20 Apr 2012 15:38:41 +0400
+
 elementary-meta (1.259) precise; urgency=low
 
   * Refreshed dependencies

@@ -16,7 +16,7 @@ cups-bsd
 cups-client
 doc-base
 elementary-default-settings
-elementaryos-report-problem-dockitem
+elementary-os-prerelease
 empathy
 evince
 file-roller
@@ -101,6 +101,8 @@ software-center
 software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
+switchboard
+switchboard-plug-wallpaper
 system-config-printer-gnome
 telepathy-idle
 totem
