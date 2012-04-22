@@ -94,7 +94,6 @@ pulseaudio-module-bluetooth
 pulseaudio-module-gconf
 pulseaudio-module-x11
 python-aptdaemon.pkcompat
-rarian-compat
 shotwell
 simple-scan
 software-center

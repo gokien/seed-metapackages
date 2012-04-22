@@ -1,3 +1,17 @@
+elementary-meta (1.262) precise; urgency=low
+
+  * Refreshed dependencies
+  * Removed rarian-compat from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Sun, 22 Apr 2012 17:00:46 +0400
+
+elementary-meta (1.261) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added pantheon-print to pantheon-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Sat, 21 Apr 2012 20:30:51 +0400
+
 elementary-meta (1.260) precise; urgency=low
 
   * Refreshed dependencies
