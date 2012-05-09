@@ -20,5 +20,7 @@ pppconfig
 pppoeconf
 preload
 strace
+ulatencyd
+ulatencyd-configs-elementary
 update-manager-core
 uuid-runtime

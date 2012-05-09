@@ -101,6 +101,7 @@ software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
 switchboard
+switchboard-gnome-control-center
 switchboard-plug-wallpaper
 system-config-printer-gnome
 telepathy-idle

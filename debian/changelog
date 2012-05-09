@@ -1,3 +1,12 @@
+elementary-meta (1.264) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added switchboard-gnome-control-center to desktop-recommends
+  * Added ulatencyd to standard-recommends
+  * Added ulatencyd-configs-elementary to standard-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 09 May 2012 23:28:58 +0400
+
 elementary-meta (1.263) precise; urgency=low
 
   * Refreshed dependencies
