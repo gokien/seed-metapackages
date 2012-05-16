@@ -1,3 +1,10 @@
+elementary-meta (1.265) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added apport-hooks-elementary to desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 16 May 2012 23:30:01 +0400
+
 elementary-meta (1.264) precise; urgency=low
 
   * Refreshed dependencies
