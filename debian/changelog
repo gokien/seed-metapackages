@@ -1,3 +1,11 @@
+elementary-meta (1.266) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added pantheon-greeter to pantheon-recommends
+  * Removed pantheon-lightdm-theme from pantheon-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Sat, 19 May 2012 00:34:44 +0400
+
 elementary-meta (1.265) quantal; urgency=low
 
   * Refreshed dependencies
