@@ -1,3 +1,11 @@
+elementary-meta (1.267) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added pantheon-files to pantheon-recommends
+  * Removed marlin from pantheon-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Sun, 27 May 2012 21:56:45 +0400
+
 elementary-meta (1.266) quantal; urgency=low
 
   * Refreshed dependencies
