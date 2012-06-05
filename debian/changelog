@@ -1,3 +1,10 @@
+elementary-meta (1.269) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added geary to desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Tue, 05 Jun 2012 12:43:29 +0400
+
 elementary-meta (1.268) quantal; urgency=low
 
   * Refreshed dependencies
