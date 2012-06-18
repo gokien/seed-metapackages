@@ -1,3 +1,10 @@
+elementary-meta (1.270) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Removed dexter-contacts from pantheon-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Mon, 18 Jun 2012 16:07:30 +0400
+
 elementary-meta (1.269) quantal; urgency=low
 
   * Refreshed dependencies
