@@ -1,3 +1,11 @@
+elementary-meta (1.271) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added midori-granite to pantheon-recommends
+  * Removed midori from pantheon-recommends
+
+ -- Sergey "Shnatsel" Davidoff <shnatsel@gmail.com>  Fri, 22 Jun 2012 17:18:32 +0400
+
 elementary-meta (1.270) quantal; urgency=low
 
   * Refreshed dependencies
