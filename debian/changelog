@@ -1,3 +1,13 @@
+elementary-meta (1.272) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added midori to pantheon-recommends
+  * Added scratch-text-editor to pantheon-recommends
+  * Removed midori-granite from pantheon-recommends
+  * Removed scratch from pantheon-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 04 Jul 2012 20:38:11 +0400
+
 elementary-meta (1.271) quantal; urgency=low
 
   * Refreshed dependencies
