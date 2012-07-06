@@ -1,3 +1,10 @@
+elementary-meta (1.273) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Removed gnome-search-tool from desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Fri, 06 Jul 2012 12:32:38 +0400
+
 elementary-meta (1.272) quantal; urgency=low
 
   * Refreshed dependencies
