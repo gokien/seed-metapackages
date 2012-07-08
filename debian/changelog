@@ -1,3 +1,10 @@
+elementary-meta (1.274) quantal; urgency=low
+
+  * Refreshed dependencies
+  * Added print-test-page-elementary to artwork-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Sun, 08 Jul 2012 14:26:12 +0400
+
 elementary-meta (1.273) quantal; urgency=low
 
   * Refreshed dependencies
