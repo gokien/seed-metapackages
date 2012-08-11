@@ -1,3 +1,11 @@
+elementary-meta (1.275) precise; urgency=low
+
+  * Refreshed dependencies
+  * Removed ulatencyd from standard-recommends
+  * Removed ulatencyd-configs-elementary from standard-recommends
+
+ -- Cody Garver <codygarver@asus>  Sat, 11 Aug 2012 14:45:15 -0500
+
 elementary-meta (1.274) quantal; urgency=low
 
   * Refreshed dependencies
