@@ -1,3 +1,13 @@
+elementary-meta (1.276) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added midori-granite to pantheon-recommends
+  * Added switchboard-plug-pantheon-shell to desktop-recommends
+  * Removed midori from pantheon-recommends
+  * Removed switchboard-plug-wallpaper from desktop-recommends
+
+ -- Cody Garver <codygarver@asus>  Wed, 05 Sep 2012 18:08:42 -0500
+
 elementary-meta (1.275) precise; urgency=low
 
   * Refreshed dependencies
