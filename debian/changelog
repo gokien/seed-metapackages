@@ -1,3 +1,10 @@
+elementary-meta (1.277) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary to artwork-recommends [i386]
+
+ -- Precise Beta <precise@precise-beta-portable>  Sun, 23 Sep 2012 01:27:29 +0400
+
 elementary-meta (1.276) precise; urgency=low
 
   * Refreshed dependencies
