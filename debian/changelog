@@ -1,3 +1,13 @@
+elementary-meta (1.279) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary to desktop-recommends
+  * Added print-test-page-elementary to desktop-recommends
+  * Removed plymouth-theme-elementary from artwork-recommends
+  * Removed print-test-page-elementary from artwork-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 26 Sep 2012 18:14:55 +0400
+
 elementary-meta (1.278) precise; urgency=low
 
   * Refreshed dependencies
