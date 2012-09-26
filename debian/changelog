@@ -1,3 +1,11 @@
+elementary-meta (1.278) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary to artwork-recommends [amd64]
+  * Added switchboard-plug-about to desktop-recommends
+
+ -- Precise Beta <precise@precise-beta-portable>  Wed, 26 Sep 2012 17:32:58 +0400
+
 elementary-meta (1.277) precise; urgency=low
 
   * Refreshed dependencies

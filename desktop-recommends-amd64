@@ -103,6 +103,7 @@ speech-dispatcher
 ssh-askpass-gnome
 switchboard
 switchboard-gnome-control-center
+switchboard-plug-about
 switchboard-plug-pantheon-shell
 system-config-printer-gnome
 telepathy-idle
