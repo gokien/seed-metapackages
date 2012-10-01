@@ -107,6 +107,7 @@ switchboard
 switchboard-gnome-control-center
 switchboard-plug-about
 switchboard-plug-pantheon-shell
+switchboard-plug-power
 system-config-printer-gnome
 telepathy-idle
 totem

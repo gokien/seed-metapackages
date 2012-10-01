@@ -1,3 +1,10 @@
+elementary-meta (1.280) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added switchboard-plug-power to desktop-recommends
+
+ -- Cody Garver <codygarver@asus>  Sun, 30 Sep 2012 22:53:57 -0500
+
 elementary-meta (1.279) precise; urgency=low
 
   * Refreshed dependencies
