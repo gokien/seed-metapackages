@@ -105,6 +105,7 @@ speech-dispatcher
 ssh-askpass-gnome
 switchboard
 switchboard-gnome-control-center
+switchboard-plug-about
 switchboard-plug-pantheon-shell
 switchboard-plug-power
 system-config-printer-gnome

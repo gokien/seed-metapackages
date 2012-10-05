@@ -1,3 +1,10 @@
+elementary-meta (1.282) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added switchboard-plug-about to desktop-recommends
+
+ -- Ivo Nunes <ivo@ivo-desktop>  Fri, 05 Oct 2012 21:12:04 +0100
+
 elementary-meta (1.281) precise; urgency=low
 
   * Refreshed dependencies
