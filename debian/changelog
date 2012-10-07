@@ -1,3 +1,10 @@
+elementary-meta (1.283) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added plymouth-theme-elementary-text to desktop-recommends
+
+ -- Ivo Nunes <ivo@ivo-desktop>  Sun, 07 Oct 2012 21:03:25 +0100
+
 elementary-meta (1.282) precise; urgency=low
 
   * Refreshed dependencies
