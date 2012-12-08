@@ -3,6 +3,7 @@ alsa-utils
 anacron
 ca-certificates
 dmz-cursor-theme
+elementary-artwork
 foomatic-db-compressed-ppds
 foomatic-filters
 ghostscript-x
@@ -11,6 +12,7 @@ libpam-ck-connector
 libsasl2-modules
 libxp6
 openprinting-ppds
+pantheon
 printer-driver-pnm2ppa
 rfkill
 ttf-freefont

@@ -1,3 +1,37 @@
+elementary-meta (1.286) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added apport-hooks-elementary to desktop-recommends [armhf]
+  * Added contractor to pantheon-recommends [armhf]
+  * Added elementary-artwork to desktop [armhf]
+  * Added elementary-default-settings to desktop-recommends [armhf]
+  * Added elementary-os-prerelease to desktop-recommends [armhf]
+  * Added elementary-theme to artwork [armhf]
+  * Added elementary-wallpapers to artwork-recommends [armhf]
+  * Added fonts-open-sans to desktop-recommends [armhf]
+  * Added fonts-raleway to desktop-recommends [armhf]
+  * Added gala to pantheon-shell-recommends [armhf]
+  * Added maya to pantheon-recommends [armhf]
+  * Added midori-granite to pantheon-recommends [armhf]
+  * Added noise to pantheon-recommends [armhf]
+  * Added pantheon to desktop [armhf]
+  * Added pantheon-files to pantheon-recommends [armhf]
+  * Added pantheon-greeter to pantheon-recommends [armhf]
+  * Added pantheon-print to pantheon-recommends [armhf]
+  * Added pantheon-shell to pantheon-recommends [armhf]
+  * Added pantheon-terminal to pantheon-recommends [armhf]
+  * Added pantheon-xsession-settings to pantheon-shell [armhf]
+  * Added plank to pantheon-shell-recommends [armhf]
+  * Added plymouth-theme-elementary-text to desktop-recommends [armhf]
+  * Added print-test-page-elementary to desktop-recommends [armhf]
+  * Added scratch-text-editor to pantheon-recommends [armhf]
+  * Added slingshot-launcher to pantheon-shell [armhf]
+  * Added switchboard to desktop-recommends [armhf]
+  * Added switchboard-plug-pantheon-shell to desktop-recommends [armhf]
+  * Added wingpanel to pantheon-shell [armhf]
+
+ -- Sergey "Shnatsel" Davidoff <serioga@serioga-HP-Compaq-dx7400-Microtower>  Sun, 09 Dec 2012 03:03:13 +0400
+
 elementary-meta (1.285) precise; urgency=low
 
   * Refreshed dependencies

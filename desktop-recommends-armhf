@@ -1,6 +1,7 @@
 activity-log-manager-control-center
 app-install-data-partner
 apport-gtk
+apport-hooks-elementary
 at-spi2-core
 avahi-autoipd
 avahi-daemon
@@ -14,12 +15,16 @@ cups
 cups-bsd
 cups-client
 doc-base
+elementary-default-settings
+elementary-os-prerelease
 empathy
 evince
 file-roller
 fonts-droid
 fonts-liberation
 fonts-nanum
+fonts-open-sans
+fonts-raleway
 gcalctool
 gcc
 ginn
@@ -74,7 +79,9 @@ onboard
 overlay-scrollbar
 p7zip-full
 pcmciautils
+plymouth-theme-elementary-text
 policykit-desktop-privileges
+print-test-page-elementary
 printer-driver-c2esp
 printer-driver-foo2zjs
 printer-driver-min12xxw
@@ -92,6 +99,8 @@ software-center
 software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
+switchboard
+switchboard-plug-pantheon-shell
 system-config-printer-gnome
 telepathy-idle
 totem
