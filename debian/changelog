@@ -1,3 +1,14 @@
+elementary-meta (1.285) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added elementary-scan to desktop-recommends [amd64 i386]
+  * Added traceroute to standard-recommends [amd64 i386]
+  * Removed linux-headers-generic from desktop-recommends [amd64]
+  * Removed linux-headers-generic-pae from desktop-recommends [i386]
+  * Removed simple-scan from desktop-recommends [amd64 i386]
+
+ -- Sergey "Shnatsel" Davidoff <serioga@serioga-HP-Compaq-dx7400-Microtower>  Sat, 08 Dec 2012 21:56:07 +0400
+
 elementary-meta (1.284) precise; urgency=low
 
   * Refreshed dependencies

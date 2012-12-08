@@ -20,5 +20,6 @@ pppconfig
 pppoeconf
 preload
 strace
+traceroute
 update-manager-core
 uuid-runtime
