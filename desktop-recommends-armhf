@@ -101,6 +101,8 @@ software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
 switchboard
+switchboard-plug-about
+switchboard-plug-default-applications
 switchboard-plug-pantheon-shell
 system-config-printer-gnome
 telepathy-idle

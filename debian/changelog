@@ -1,3 +1,12 @@
+elementary-meta (1.288) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added switchboard-plug-about to desktop-recommends [armhf]
+  * Added switchboard-plug-default-applications to desktop-recommends
+    [armhf]
+
+ -- Sergey "Shnatsel" Davidoff <serioga@serioga-HP-Compaq-dx7400-Microtower>  Wed, 12 Dec 2012 15:46:22 +0400
+
 elementary-meta (1.287) precise; urgency=low
 
   * Refreshed dependencies
