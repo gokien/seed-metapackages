@@ -1,3 +1,11 @@
+elementary-meta (1.292) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added maya-calendar to pantheon-recommends
+  * Removed maya from pantheon-recommends
+
+ -- Sergey "Shnatsel" Davidoff <serioga@serioga-HP-Compaq-dx7400-Microtower>  Thu, 17 Jan 2013 02:50:28 +0400
+
 elementary-meta (1.291) precise; urgency=low
 
   * Refreshed dependencies
