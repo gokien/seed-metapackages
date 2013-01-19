@@ -1,3 +1,10 @@
+elementary-meta (1.293) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added switchboard-plug-keyboard to desktop-recommends
+
+ -- Cody Garver <codygarver@asus>  Sat, 19 Jan 2013 11:07:08 -0600
+
 elementary-meta (1.292) precise; urgency=low
 
   * Refreshed dependencies

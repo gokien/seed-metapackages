@@ -105,6 +105,7 @@ ssh-askpass-gnome
 switchboard
 switchboard-plug-about
 switchboard-plug-default-applications
+switchboard-plug-keyboard
 switchboard-plug-pantheon-shell
 switchboard-plug-power
 system-config-printer-gnome
