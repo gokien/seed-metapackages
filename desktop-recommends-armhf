@@ -103,6 +103,7 @@ software-properties-gtk
 speech-dispatcher
 ssh-askpass-gnome
 switchboard
+switchboard-gnome-control-center
 switchboard-plug-about
 switchboard-plug-default-applications
 switchboard-plug-keyboard
@@ -115,6 +116,7 @@ ttf-unifont
 tumbler-plugins-extra
 update-manager
 update-notifier
+user-specific-alternatives
 whoopsie
 xcursor-themes
 xdg-user-dirs-gtk

@@ -1,3 +1,11 @@
+elementary-meta (1.294) precise; urgency=low
+
+  * Refreshed dependencies
+  * Added switchboard-gnome-control-center to desktop-recommends [armhf]
+  * Added user-specific-alternatives to desktop-recommends
+
+ -- Sergey "Shnatsel" Davidoff <serioga@serioga-HP-Compaq-dx7400-Microtower>  Mon, 28 Jan 2013 16:02:19 +0400
+
 elementary-meta (1.293) precise; urgency=low
 
   * Refreshed dependencies
