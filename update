@@ -10,4 +10,4 @@ if ! which debootstrap >/dev/null; then
 	exit 1
 fi
 
-germinate-update-metapackage --bzr
+germinate-update-metapackage
